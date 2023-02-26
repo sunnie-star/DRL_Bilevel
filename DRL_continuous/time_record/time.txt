@@ -1,0 +1,2295 @@
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2362792491912842
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2229206562042236
+time of "计算视频所有帧的edge difference" is:9.372463941574097
+time of "初始化Envs" is:10.599454879760742
+time of "vgg" is:0.6969039440155029
+time of "准备infer模型" is:0.5805416107177734
+time of "初始化Server" is:0.5900413990020752
+time of "vgg" is:0.6542043685913086
+time of "model to gpu" is:2.392639398574829
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2196123600006104
+time of "计算视频所有帧的edge difference" is:8.561067581176758
+time of "初始化Envs" is:9.78573727607727
+time of "vgg" is:0.7724368572235107
+time of "准备infer模型" is:0.5551290512084961
+time of "初始化Server" is:0.566042423248291
+time of "vgg" is:0.6786980628967285
+time of "model to gpu" is:2.3288180828094482
+time of "load 模型参数" is:0.007192850112915039
+time of "sr" is:0.9891366958618164
+time of "infer" is:0.8172569274902344
+time of "sr" is:0.29688143730163574
+time of "infer" is:0.716461181640625
+time of "vgg" is:0.6952559947967529
+time of "model to gpu" is:0.0031528472900390625
+time of "load 模型参数" is:0.006955623626708984
+time of "sr" is:0.2959864139556885
+time of "infer" is:0.7349903583526611
+time of "vgg" is:0.6335673332214355
+time of "model to gpu" is:0.0033807754516601562
+time of "load 模型参数" is:0.00635218620300293
+time of "sr" is:0.29604482650756836
+time of "infer" is:0.7165234088897705
+time of "sr" is:0.29605603218078613
+time of "infer" is:0.7779476642608643
+time of "vgg" is:0.5252687931060791
+time of "vgg" is:0.5889995098114014
+time of "model to gpu" is:0.0033605098724365234
+time of "load 模型参数" is:0.006184101104736328
+time of "sr" is:0.30641770362854004
+time of "infer" is:0.6966640949249268
+time of "sr" is:0.29634904861450195
+time of "infer" is:0.7171123027801514
+time of "vgg" is:0.6179759502410889
+time of "model to gpu" is:0.003353595733642578
+time of "load 模型参数" is:0.006008625030517578
+time of "sr" is:0.2962644100189209
+time of "infer" is:0.6426208019256592
+time of "vgg" is:0.5215713977813721
+time of "vgg" is:0.49963998794555664
+time of "model to gpu" is:0.0034825801849365234
+time of "load 模型参数" is:0.00722813606262207
+time of "sr" is:0.2969186305999756
+time of "infer" is:0.7010605335235596
+time of "vgg" is:0.6707022190093994
+time of "model to gpu" is:0.003126382827758789
+time of "load 模型参数" is:0.005972862243652344
+time of "sr" is:0.2968132495880127
+time of "infer" is:0.7085907459259033
+time of "vgg" is:0.6550557613372803
+time of "vgg" is:0.6612017154693604
+time of "model to gpu" is:0.00397038459777832
+time of "load 模型参数" is:0.007912158966064453
+time of "sr" is:0.30254244804382324
+time of "infer" is:0.7247934341430664
+time of "vgg" is:0.6345670223236084
+time of "model to gpu" is:0.0030279159545898438
+time of "load 模型参数" is:0.005849361419677734
+time of "sr" is:0.29650044441223145
+time of "infer" is:0.692800760269165
+time of "sr" is:0.2959749698638916
+time of "infer" is:0.6840543746948242
+time of "sr" is:0.2966587543487549
+time of "infer" is:0.6575078964233398
+time of "vgg" is:0.6369240283966064
+time of "vgg" is:0.637347936630249
+time of "vgg" is:0.6343777179718018
+time of "model to gpu" is:0.0032126903533935547
+time of "load 模型参数" is:0.006258487701416016
+time of "sr" is:0.3073146343231201
+time of "infer" is:0.6894333362579346
+time of "sr" is:0.2968106269836426
+time of "infer" is:0.6950209140777588
+time of "sr" is:0.29741740226745605
+time of "infer" is:0.7056708335876465
+time of "vgg" is:0.6988868713378906
+time of "model to gpu" is:0.003080129623413086
+time of "load 模型参数" is:0.006770610809326172
+time of "sr" is:0.29535460472106934
+time of "infer" is:0.6974818706512451
+time of "sr" is:0.2966742515563965
+time of "infer" is:0.6891477108001709
+time of "vgg" is:0.6380119323730469
+time of "model to gpu" is:0.003116607666015625
+time of "load 模型参数" is:0.006035566329956055
+time of "sr" is:0.2957429885864258
+time of "infer" is:0.7147355079650879
+time of "sr" is:0.29682445526123047
+time of "infer" is:0.7491533756256104
+time of "vgg" is:0.5222680568695068
+time of "model to gpu" is:0.003159046173095703
+time of "load 模型参数" is:0.005839109420776367
+time of "sr" is:0.2967557907104492
+time of "infer" is:0.6612215042114258
+time of "sr" is:0.29648494720458984
+time of "infer" is:0.6647229194641113
+time of "vgg" is:0.5033524036407471
+time of "model to gpu" is:0.002998828887939453
+time of "load 模型参数" is:0.00587153434753418
+time of "sr" is:0.2966957092285156
+time of "infer" is:0.6812164783477783
+time of "sr" is:0.2970459461212158
+time of "infer" is:0.6869494915008545
+time of "vgg" is:0.6215531826019287
+time of "model to gpu" is:0.0030591487884521484
+time of "load 模型参数" is:0.005938053131103516
+time of "sr" is:0.2969989776611328
+time of "infer" is:0.6331944465637207
+time of "sr" is:0.296184778213501
+time of "infer" is:0.6724348068237305
+time of "vgg" is:0.5080235004425049
+time of "model to gpu" is:0.0031003952026367188
+time of "load 模型参数" is:0.005964517593383789
+time of "sr" is:0.29749584197998047
+time of "infer" is:0.7014141082763672
+time of "sr" is:0.29697656631469727
+time of "infer" is:0.6899609565734863
+time of "vgg" is:0.5108909606933594
+time of "vgg" is:0.5160233974456787
+time of "model to gpu" is:0.0031316280364990234
+time of "load 模型参数" is:0.005921602249145508
+time of "sr" is:0.29704952239990234
+time of "infer" is:0.6848161220550537
+time of "vgg" is:0.5024683475494385
+time of "model to gpu" is:0.003003835678100586
+time of "load 模型参数" is:0.005817890167236328
+time of "sr" is:0.2971658706665039
+time of "infer" is:0.6665592193603516
+time of "sr" is:0.2970132827758789
+time of "infer" is:0.6833333969116211
+time of "sr" is:0.2971365451812744
+time of "infer" is:0.6936814785003662
+time of "vgg" is:0.5127658843994141
+time of "model to gpu" is:0.0030565261840820312
+time of "load 模型参数" is:0.006037235260009766
+time of "sr" is:0.29805827140808105
+time of "infer" is:0.70646071434021
+time of "sr" is:0.2963540554046631
+time of "infer" is:0.6810863018035889
+time of "vgg" is:0.525615930557251
+time of "model to gpu" is:0.0031194686889648438
+time of "load 模型参数" is:0.00590062141418457
+time of "sr" is:0.2967860698699951
+time of "infer" is:0.7081546783447266
+time of "vgg" is:0.6393470764160156
+time of "model to gpu" is:0.003964424133300781
+time of "load 模型参数" is:0.007779359817504883
+time of "sr" is:0.2970728874206543
+time of "infer" is:0.7232434749603271
+time of "sr" is:0.2977943420410156
+time of "infer" is:0.8009471893310547
+time of "vgg" is:0.642845869064331
+time of "model to gpu" is:0.00324249267578125
+time of "load 模型参数" is:0.006392240524291992
+time of "sr" is:0.2973337173461914
+time of "infer" is:0.744457483291626
+time of "sr" is:0.29796624183654785
+time of "infer" is:0.7729325294494629
+time of "vgg" is:0.6398625373840332
+time of "model to gpu" is:0.003178834915161133
+time of "load 模型参数" is:0.0059604644775390625
+time of "sr" is:0.2973475456237793
+time of "infer" is:0.7363190650939941
+time of "sr" is:0.2972538471221924
+time of "infer" is:0.7453346252441406
+time of "vgg" is:0.626030683517456
+time of "model to gpu" is:0.0030059814453125
+time of "load 模型参数" is:0.005820751190185547
+time of "sr" is:0.29736781120300293
+time of "infer" is:0.7136516571044922
+time of "vgg" is:0.6308796405792236
+time of "model to gpu" is:0.003008604049682617
+time of "load 模型参数" is:0.005887269973754883
+time of "sr" is:0.29728198051452637
+time of "infer" is:0.7036917209625244
+time of "sr" is:0.29781508445739746
+time of "infer" is:0.716080904006958
+time of "sr" is:0.29766106605529785
+time of "infer" is:0.6219274997711182
+time of "vgg" is:0.6032633781433105
+time of "model to gpu" is:0.003262042999267578
+time of "load 模型参数" is:0.006342649459838867
+time of "sr" is:0.29798293113708496
+time of "infer" is:0.7129859924316406
+time of "sr" is:0.2966780662536621
+time of "infer" is:0.709481954574585
+time of "vgg" is:0.6229856014251709
+time of "model to gpu" is:0.0030257701873779297
+time of "load 模型参数" is:0.005841732025146484
+time of "sr" is:0.29680490493774414
+time of "infer" is:0.7036008834838867
+time of "sr" is:0.2970156669616699
+time of "infer" is:0.7029745578765869
+time of "vgg" is:0.5572488307952881
+time of "model to gpu" is:0.003118753433227539
+time of "load 模型参数" is:0.006024837493896484
+time of "sr" is:0.2976541519165039
+time of "infer" is:0.7285234928131104
+time of "vgg" is:0.6346578598022461
+time of "model to gpu" is:0.002997875213623047
+time of "load 模型参数" is:0.005806922912597656
+time of "sr" is:0.2974233627319336
+time of "infer" is:0.6861207485198975
+time of "sr" is:0.29724955558776855
+time of "infer" is:0.6904280185699463
+time of "vgg" is:0.6401724815368652
+time of "model to gpu" is:0.003000020980834961
+time of "load 模型参数" is:0.0057830810546875
+time of "sr" is:0.29657816886901855
+time of "infer" is:0.6380841732025146
+time of "sr" is:0.2967875003814697
+time of "infer" is:0.6642177104949951
+time of "vgg" is:0.6357829570770264
+time of "model to gpu" is:0.0029897689819335938
+time of "load 模型参数" is:0.0058383941650390625
+time of "sr" is:0.2986760139465332
+time of "infer" is:0.6511759757995605
+time of "sr" is:0.2976040840148926
+time of "infer" is:0.666651725769043
+time of "vgg" is:0.5905537605285645
+time of "model to gpu" is:0.0030257701873779297
+time of "load 模型参数" is:0.005860328674316406
+time of "sr" is:0.29703283309936523
+time of "infer" is:0.6723966598510742
+time of "vgg" is:0.5912096500396729
+time of "model to gpu" is:0.002980947494506836
+time of "load 模型参数" is:0.005756378173828125
+time of "sr" is:0.2980024814605713
+time of "infer" is:0.6757361888885498
+time of "vgg" is:0.6291253566741943
+time of "model to gpu" is:0.004117727279663086
+time of "load 模型参数" is:0.008060932159423828
+time of "sr" is:0.29845643043518066
+time of "infer" is:0.6963918209075928
+time of "vgg" is:0.6227278709411621
+time of "model to gpu" is:0.0031037330627441406
+time of "load 模型参数" is:0.0057773590087890625
+time of "sr" is:0.29787111282348633
+time of "infer" is:0.7166929244995117
+time of "sr" is:0.29768896102905273
+time of "infer" is:0.6652259826660156
+time of "vgg" is:0.49188828468322754
+time of "model to gpu" is:0.0030095577239990234
+time of "load 模型参数" is:0.005897998809814453
+time of "sr" is:0.2976722717285156
+time of "infer" is:0.5943903923034668
+time of "vgg" is:0.4662134647369385
+time of "model to gpu" is:0.003122568130493164
+time of "load 模型参数" is:0.005807638168334961
+time of "sr" is:0.2966933250427246
+time of "infer" is:0.5778179168701172
+time of "vgg" is:0.5336623191833496
+time of "model to gpu" is:0.003177165985107422
+time of "load 模型参数" is:0.006192207336425781
+time of "sr" is:0.29797983169555664
+time of "infer" is:0.7378761768341064
+time of "vgg" is:0.5553910732269287
+time of "model to gpu" is:0.003197193145751953
+time of "load 模型参数" is:0.005963563919067383
+time of "sr" is:0.2974584102630615
+time of "infer" is:0.6055343151092529
+time of "sr" is:0.2974834442138672
+time of "infer" is:0.6469786167144775
+time of "vgg" is:0.5140089988708496
+time of "model to gpu" is:0.003094911575317383
+time of "load 模型参数" is:0.006239414215087891
+time of "sr" is:0.29763054847717285
+time of "infer" is:0.6457924842834473
+time of "sr" is:0.29709577560424805
+time of "infer" is:0.725398063659668
+time of "sr" is:0.298656702041626
+time of "infer" is:0.6752591133117676
+time of "vgg" is:0.5007154941558838
+time of "model to gpu" is:0.003047943115234375
+time of "load 模型参数" is:0.005959033966064453
+time of "sr" is:0.2980813980102539
+time of "infer" is:0.668649435043335
+time of "sr" is:0.29761338233947754
+time of "infer" is:0.6908190250396729
+time of "vgg" is:0.5113680362701416
+time of "model to gpu" is:0.003009319305419922
+time of "load 模型参数" is:0.005793333053588867
+time of "sr" is:0.29863595962524414
+time of "infer" is:0.6905813217163086
+time of "sr" is:0.2978696823120117
+time of "infer" is:0.7515013217926025
+time of "vgg" is:0.5201785564422607
+time of "model to gpu" is:0.003002643585205078
+time of "load 模型参数" is:0.005789279937744141
+time of "sr" is:0.2970709800720215
+time of "infer" is:0.6864705085754395
+time of "sr" is:0.29743528366088867
+time of "infer" is:0.6655933856964111
+time of "vgg" is:0.5016698837280273
+time of "model to gpu" is:0.003000020980834961
+time of "load 模型参数" is:0.005944013595581055
+time of "sr" is:0.2978808879852295
+time of "infer" is:0.679351806640625
+time of "sr" is:0.29771995544433594
+time of "infer" is:0.7337853908538818
+time of "vgg" is:0.5054614543914795
+time of "model to gpu" is:0.0029997825622558594
+time of "load 模型参数" is:0.005766630172729492
+time of "sr" is:0.29755187034606934
+time of "infer" is:0.6844127178192139
+time of "sr" is:0.29753851890563965
+time of "infer" is:0.6916196346282959
+time of "vgg" is:0.516061544418335
+time of "model to gpu" is:0.0029752254486083984
+time of "load 模型参数" is:0.005816221237182617
+time of "sr" is:0.2967967987060547
+time of "infer" is:0.6595602035522461
+time of "sr" is:0.2968111038208008
+time of "infer" is:0.7071354389190674
+time of "sr" is:0.2984614372253418
+time of "infer" is:0.689429521560669
+time of "vgg" is:0.5055639743804932
+time of "model to gpu" is:0.003116130828857422
+time of "load 模型参数" is:0.0058405399322509766
+time of "sr" is:0.29771947860717773
+time of "infer" is:0.7076015472412109
+time of "sr" is:0.2973904609680176
+time of "infer" is:0.6598310470581055
+time of "vgg" is:0.5369937419891357
+time of "model to gpu" is:0.0030007362365722656
+time of "load 模型参数" is:0.005832672119140625
+time of "sr" is:0.2971353530883789
+time of "infer" is:0.6510336399078369
+time of "sr" is:0.29764699935913086
+time of "infer" is:0.7277297973632812
+time of "vgg" is:0.6345224380493164
+time of "model to gpu" is:0.003035306930541992
+time of "load 模型参数" is:0.005954265594482422
+time of "sr" is:0.2979240417480469
+time of "infer" is:0.7166869640350342
+time of "sr" is:0.29830050468444824
+time of "infer" is:0.711620569229126
+time of "vgg" is:0.6563313007354736
+time of "model to gpu" is:0.003141641616821289
+time of "load 模型参数" is:0.006047725677490234
+time of "sr" is:0.2977485656738281
+time of "infer" is:0.7433667182922363
+time of "sr" is:0.29736757278442383
+time of "infer" is:0.7170629501342773
+time of "vgg" is:0.6390383243560791
+time of "model to gpu" is:0.0030667781829833984
+time of "load 模型参数" is:0.005908966064453125
+time of "sr" is:0.29863452911376953
+time of "infer" is:0.7162771224975586
+time of "vgg" is:0.6229393482208252
+time of "model to gpu" is:0.0030443668365478516
+time of "load 模型参数" is:0.005931854248046875
+time of "sr" is:0.2973623275756836
+time of "infer" is:0.6152992248535156
+time of "sr" is:0.29747557640075684
+time of "infer" is:0.656609058380127
+time of "vgg" is:0.5234882831573486
+time of "model to gpu" is:0.003020048141479492
+time of "load 模型参数" is:0.005771636962890625
+time of "sr" is:0.29770851135253906
+time of "infer" is:0.6012246608734131
+time of "vgg" is:0.5048091411590576
+time of "model to gpu" is:0.003019094467163086
+time of "load 模型参数" is:0.00587010383605957
+time of "sr" is:0.2976267337799072
+time of "infer" is:0.7241082191467285
+time of "sr" is:0.29802823066711426
+time of "infer" is:0.703589677810669
+time of "vgg" is:0.5063540935516357
+time of "model to gpu" is:0.003025531768798828
+time of "load 模型参数" is:0.005795478820800781
+time of "sr" is:0.29749631881713867
+time of "infer" is:0.666297435760498
+time of "sr" is:0.2978990077972412
+time of "infer" is:0.7181646823883057
+time of "vgg" is:0.618492603302002
+time of "model to gpu" is:0.0030775070190429688
+time of "load 模型参数" is:0.005804300308227539
+time of "sr" is:0.2976653575897217
+time of "infer" is:0.707313060760498
+time of "sr" is:0.2978227138519287
+time of "infer" is:0.7352149486541748
+time of "sr" is:0.2985539436340332
+time of "infer" is:0.7064158916473389
+time of "vgg" is:0.6191294193267822
+time of "model to gpu" is:0.0030400753021240234
+time of "load 模型参数" is:0.005900859832763672
+time of "sr" is:0.2986159324645996
+time of "infer" is:0.7238678932189941
+time of "sr" is:0.29775238037109375
+time of "infer" is:0.726431131362915
+time of "sr" is:0.29909348487854004
+time of "infer" is:0.6740822792053223
+time of "vgg" is:0.5683557987213135
+time of "model to gpu" is:0.003086090087890625
+time of "load 模型参数" is:0.005814790725708008
+time of "sr" is:0.2983684539794922
+time of "infer" is:0.6636984348297119
+time of "sr" is:0.2978672981262207
+time of "infer" is:0.6736714839935303
+time of "sr" is:0.297976016998291
+time of "infer" is:0.7235546112060547
+time of "vgg" is:0.4986569881439209
+time of "model to gpu" is:0.0030219554901123047
+time of "load 模型参数" is:0.005852699279785156
+time of "sr" is:0.2975471019744873
+time of "infer" is:0.7204329967498779
+time of "sr" is:0.298114538192749
+time of "infer" is:0.6701874732971191
+time of "sr" is:0.29857516288757324
+time of "infer" is:0.6797385215759277
+time of "vgg" is:0.5075383186340332
+time of "model to gpu" is:0.0032618045806884766
+time of "load 模型参数" is:0.006040811538696289
+time of "sr" is:0.2978358268737793
+time of "infer" is:0.6582663059234619
+time of "sr" is:0.2982778549194336
+time of "infer" is:0.670647144317627
+time of "sr" is:0.2986152172088623
+time of "infer" is:0.6552648544311523
+time of "vgg" is:0.6809802055358887
+time of "model to gpu" is:0.0033903121948242188
+time of "load 模型参数" is:0.006828784942626953
+time of "sr" is:0.29886651039123535
+time of "infer" is:0.6578977108001709
+time of "sr" is:0.29747438430786133
+time of "infer" is:0.6537163257598877
+time of "vgg" is:0.5001499652862549
+time of "model to gpu" is:0.0030052661895751953
+time of "load 模型参数" is:0.0058672428131103516
+time of "sr" is:0.2979085445404053
+time of "infer" is:0.680898904800415
+time of "sr" is:0.2977268695831299
+time of "infer" is:0.7176258563995361
+time of "sr" is:0.29827165603637695
+time of "infer" is:0.712012529373169
+time of "vgg" is:0.6890013217926025
+time of "model to gpu" is:0.0029878616333007812
+time of "load 模型参数" is:0.005800724029541016
+time of "sr" is:0.298600435256958
+time of "infer" is:0.6647753715515137
+time of "sr" is:0.29820966720581055
+time of "infer" is:0.6740477085113525
+time of "sr" is:0.2985701560974121
+time of "infer" is:0.7440705299377441
+time of "vgg" is:0.6393485069274902
+time of "model to gpu" is:0.003159761428833008
+time of "load 模型参数" is:0.0059168338775634766
+time of "sr" is:0.29771852493286133
+time of "infer" is:0.7107319831848145
+time of "sr" is:0.297619104385376
+time of "infer" is:0.6614687442779541
+time of "vgg" is:0.50168776512146
+time of "model to gpu" is:0.003119945526123047
+time of "load 模型参数" is:0.00604557991027832
+time of "sr" is:0.296703577041626
+time of "infer" is:0.6566610336303711
+time of "sr" is:0.2975754737854004
+time of "infer" is:0.7123525142669678
+time of "vgg" is:0.6335134506225586
+time of "model to gpu" is:0.002986907958984375
+time of "load 模型参数" is:0.005765199661254883
+time of "sr" is:0.29875922203063965
+time of "infer" is:0.7224926948547363
+time of "sr" is:0.29799342155456543
+time of "infer" is:0.7084450721740723
+time of "vgg" is:0.5392770767211914
+time of "model to gpu" is:0.0030965805053710938
+time of "load 模型参数" is:0.0058214664459228516
+time of "sr" is:0.2972564697265625
+time of "infer" is:0.6879291534423828
+time of "sr" is:0.2964901924133301
+time of "infer" is:0.6856672763824463
+time of "vgg" is:0.6318955421447754
+time of "model to gpu" is:0.0030307769775390625
+time of "load 模型参数" is:0.005827188491821289
+time of "sr" is:0.29715418815612793
+time of "infer" is:0.6808743476867676
+time of "sr" is:0.29757118225097656
+time of "infer" is:0.7061564922332764
+time of "vgg" is:0.6189515590667725
+time of "model to gpu" is:0.003049135208129883
+time of "load 模型参数" is:0.0057833194732666016
+time of "sr" is:0.29645705223083496
+time of "infer" is:0.6837892532348633
+time of "sr" is:0.297224760055542
+time of "infer" is:0.704155683517456
+time of "vgg" is:0.6263697147369385
+time of "model to gpu" is:0.0029892921447753906
+time of "load 模型参数" is:0.005803108215332031
+time of "sr" is:0.2971961498260498
+time of "infer" is:0.6766021251678467
+time of "sr" is:0.29764866828918457
+time of "infer" is:0.6431918144226074
+time of "vgg" is:0.5963225364685059
+time of "model to gpu" is:0.003031492233276367
+time of "load 模型参数" is:0.0058100223541259766
+time of "sr" is:0.29870080947875977
+time of "infer" is:0.6765742301940918
+time of "sr" is:0.2972426414489746
+time of "infer" is:0.7275524139404297
+time of "sr" is:0.2980165481567383
+time of "infer" is:0.678739070892334
+time of "vgg" is:0.5155372619628906
+time of "model to gpu" is:0.0031065940856933594
+time of "load 模型参数" is:0.005851268768310547
+time of "sr" is:0.29857492446899414
+time of "infer" is:0.6332406997680664
+time of "sr" is:0.29860758781433105
+time of "infer" is:0.6674489974975586
+time of "sr" is:0.29871153831481934
+time of "infer" is:0.6456515789031982
+time of "vgg" is:0.5104820728302002
+time of "model to gpu" is:0.0031664371490478516
+time of "load 模型参数" is:0.006287097930908203
+time of "sr" is:0.2983400821685791
+time of "infer" is:0.63755202293396
+time of "sr" is:0.2985103130340576
+time of "infer" is:0.6432123184204102
+time of "sr" is:0.29866504669189453
+time of "infer" is:0.6342761516571045
+time of "vgg" is:0.5263803005218506
+time of "model to gpu" is:0.0030868053436279297
+time of "load 模型参数" is:0.005778074264526367
+time of "sr" is:0.29886913299560547
+time of "infer" is:0.6445355415344238
+time of "sr" is:0.2977588176727295
+time of "infer" is:0.701899528503418
+time of "vgg" is:0.6441855430603027
+time of "model to gpu" is:0.0031418800354003906
+time of "load 模型参数" is:0.005997896194458008
+time of "sr" is:0.29764747619628906
+time of "infer" is:0.666489839553833
+time of "sr" is:0.2972264289855957
+time of "infer" is:0.6728355884552002
+time of "vgg" is:0.5433242321014404
+time of "model to gpu" is:0.0031087398529052734
+time of "load 模型参数" is:0.0060236454010009766
+time of "sr" is:0.2980473041534424
+time of "infer" is:0.624711275100708
+time of "vgg" is:0.5029563903808594
+time of "model to gpu" is:0.003099203109741211
+time of "load 模型参数" is:0.005976200103759766
+time of "sr" is:0.29837536811828613
+time of "infer" is:0.7002360820770264
+time of "sr" is:0.29822492599487305
+time of "infer" is:0.707066535949707
+time of "vgg" is:0.6452858448028564
+time of "model to gpu" is:0.003180980682373047
+time of "load 模型参数" is:0.0061571598052978516
+time of "sr" is:0.2978215217590332
+time of "infer" is:0.6948127746582031
+time of "sr" is:0.298534631729126
+time of "infer" is:0.7120344638824463
+time of "vgg" is:0.642024040222168
+time of "model to gpu" is:0.0030612945556640625
+time of "load 模型参数" is:0.005930185317993164
+time of "sr" is:0.29787659645080566
+time of "infer" is:0.6926259994506836
+time of "sr" is:0.2986593246459961
+time of "infer" is:0.6981556415557861
+time of "vgg" is:0.6322453022003174
+time of "model to gpu" is:0.0030977725982666016
+time of "load 模型参数" is:0.0058133602142333984
+time of "sr" is:0.29871273040771484
+time of "infer" is:0.6690759658813477
+time of "sr" is:0.29816532135009766
+time of "infer" is:0.6943230628967285
+time of "sr" is:0.29911208152770996
+time of "infer" is:0.6963777542114258
+time of "vgg" is:0.6108658313751221
+time of "model to gpu" is:0.003045797348022461
+time of "load 模型参数" is:0.005991220474243164
+time of "sr" is:0.29907989501953125
+time of "infer" is:0.6630308628082275
+time of "sr" is:0.2981417179107666
+time of "infer" is:0.6800882816314697
+time of "vgg" is:0.6373863220214844
+time of "model to gpu" is:0.0031690597534179688
+time of "load 模型参数" is:0.005941867828369141
+time of "sr" is:0.2987945079803467
+time of "infer" is:0.6351485252380371
+time of "sr" is:0.29920005798339844
+time of "infer" is:0.6927876472473145
+time of "vgg" is:0.5511212348937988
+time of "model to gpu" is:0.0032110214233398438
+time of "load 模型参数" is:0.006196022033691406
+time of "sr" is:0.29881715774536133
+time of "infer" is:0.6293520927429199
+time of "sr" is:0.2982652187347412
+time of "infer" is:0.6936178207397461
+time of "vgg" is:0.6280968189239502
+time of "model to gpu" is:0.003054380416870117
+time of "load 模型参数" is:0.005850076675415039
+time of "sr" is:0.2986581325531006
+time of "infer" is:0.6687393188476562
+time of "sr" is:0.29817724227905273
+time of "infer" is:0.7031571865081787
+time of "vgg" is:0.633246660232544
+time of "model to gpu" is:0.003246307373046875
+time of "load 模型参数" is:0.006159305572509766
+time of "sr" is:0.2981150150299072
+time of "infer" is:0.7236037254333496
+time of "vgg" is:0.6284892559051514
+time of "model to gpu" is:0.003163576126098633
+time of "load 模型参数" is:0.006159305572509766
+time of "sr" is:0.2985053062438965
+time of "infer" is:0.715141773223877
+time of "sr" is:0.2982144355773926
+time of "infer" is:0.6864356994628906
+time of "sr" is:0.2987649440765381
+time of "infer" is:0.7570140361785889
+time of "vgg" is:0.6355230808258057
+time of "model to gpu" is:0.002973318099975586
+time of "load 模型参数" is:0.005806922912597656
+time of "sr" is:0.2987511157989502
+time of "infer" is:0.6563739776611328
+time of "sr" is:0.29871630668640137
+time of "infer" is:0.711639404296875
+time of "sr" is:0.29868316650390625
+time of "infer" is:0.6575686931610107
+time of "vgg" is:0.504596471786499
+time of "model to gpu" is:0.002990245819091797
+time of "load 模型参数" is:0.0058286190032958984
+time of "sr" is:0.2980966567993164
+time of "infer" is:0.6428117752075195
+time of "sr" is:0.2986018657684326
+time of "infer" is:0.6231033802032471
+time of "sr" is:0.2984931468963623
+time of "infer" is:0.7123076915740967
+time of "vgg" is:0.6306307315826416
+time of "model to gpu" is:0.0030367374420166016
+time of "load 模型参数" is:0.005805492401123047
+time of "sr" is:0.298328161239624
+time of "infer" is:0.6571764945983887
+time of "sr" is:0.2984023094177246
+time of "infer" is:0.6684627532958984
+time of "vgg" is:0.5064020156860352
+time of "vgg" is:0.5150845050811768
+time of "model to gpu" is:0.0030820369720458984
+time of "load 模型参数" is:0.005953788757324219
+time of "sr" is:0.2987203598022461
+time of "infer" is:0.7150874137878418
+time of "vgg" is:0.633162260055542
+time of "all" is:254.81756067276
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2483670711517334
+time of "计算视频所有帧的edge difference" is:9.24073576927185
+time of "初始化Envs" is:10.494044780731201
+time of "vgg" is:0.7061522006988525
+time of "准备infer模型" is:0.5675058364868164
+time of "初始化Server" is:0.5785305500030518
+time of "vgg" is:0.6669971942901611
+time of "model to gpu" is:2.398064613342285
+time of "load 模型参数" is:0.007816791534423828
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2124121189117432
+time of "计算视频所有帧的edge difference" is:9.08449912071228
+time of "初始化Envs" is:10.301853656768799
+time of "vgg" is:0.7148582935333252
+time of "准备infer模型" is:0.5500073432922363
+time of "初始化Server" is:0.5627739429473877
+time of "vgg" is:0.6623508930206299
+time of "model to gpu" is:2.6172895431518555
+time of "load 模型参数" is:0.00917816162109375
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.259713888168335
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2407338619232178
+time of "计算视频所有帧的edge difference" is:9.385098695755005
+time of "初始化Envs" is:10.630024909973145
+time of "vgg" is:0.6829855442047119
+time of "准备infer模型" is:0.543372631072998
+time of "初始化Server" is:0.5529224872589111
+time of "vgg" is:0.6518981456756592
+time of "model to gpu" is:2.5406370162963867
+time of "load 模型参数" is:0.008809089660644531
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2255125045776367
+time of "计算视频所有帧的edge difference" is:9.010531187057495
+time of "初始化Envs" is:10.240506172180176
+time of "vgg" is:0.7043662071228027
+time of "准备infer模型" is:0.5130150318145752
+time of "初始化Server" is:0.5207281112670898
+time of "vgg" is:0.6557114124298096
+time of "model to gpu" is:2.35622239112854
+time of "load 模型参数" is:0.008025646209716797
+time of "sr" is:1.0098531246185303
+time of "infer" is:0.8353447914123535
+time of "sr" is:0.2958338260650635
+time of "infer" is:0.7265470027923584
+time of "vgg" is:0.6663112640380859
+time of "model to gpu" is:0.003215789794921875
+time of "load 模型参数" is:0.00760650634765625
+time of "sr" is:0.2963287830352783
+time of "infer" is:0.7526087760925293
+time of "vgg" is:0.6395392417907715
+time of "model to gpu" is:0.0034270286560058594
+time of "load 模型参数" is:0.006875753402709961
+time of "sr" is:0.2963693141937256
+time of "infer" is:0.8378865718841553
+time of "sr" is:0.2966463565826416
+time of "infer" is:0.7652549743652344
+time of "vgg" is:0.671881914138794
+time of "vgg" is:0.6595361232757568
+time of "model to gpu" is:0.003429412841796875
+time of "load 模型参数" is:0.007721900939941406
+time of "sr" is:0.3043177127838135
+time of "infer" is:0.7382659912109375
+time of "sr" is:0.2980482578277588
+time of "infer" is:0.7145383358001709
+time of "vgg" is:0.6407101154327393
+time of "model to gpu" is:0.0031528472900390625
+time of "load 模型参数" is:0.007375001907348633
+time of "sr" is:0.29705047607421875
+time of "infer" is:0.7201437950134277
+time of "vgg" is:0.6228060722351074
+time of "vgg" is:0.6213352680206299
+time of "model to gpu" is:0.0030617713928222656
+time of "load 模型参数" is:0.006619691848754883
+time of "sr" is:0.3034384250640869
+time of "infer" is:0.7516660690307617
+time of "vgg" is:0.7008650302886963
+time of "model to gpu" is:0.0033507347106933594
+time of "load 模型参数" is:0.007212638854980469
+time of "sr" is:0.29685282707214355
+time of "infer" is:0.7617287635803223
+time of "vgg" is:0.620957612991333
+time of "vgg" is:0.6148247718811035
+time of "model to gpu" is:0.003128528594970703
+time of "load 模型参数" is:0.00658106803894043
+time of "sr" is:0.30913758277893066
+time of "infer" is:0.6881115436553955
+time of "vgg" is:0.6301429271697998
+time of "model to gpu" is:0.003181934356689453
+time of "load 模型参数" is:0.006613969802856445
+time of "sr" is:0.2968776226043701
+time of "infer" is:0.6872715950012207
+time of "sr" is:0.2962486743927002
+time of "infer" is:0.7094180583953857
+time of "sr" is:0.29645609855651855
+time of "infer" is:0.7417881488800049
+time of "vgg" is:0.618696928024292
+time of "vgg" is:0.6867837905883789
+time of "vgg" is:0.6187961101531982
+time of "model to gpu" is:0.003124713897705078
+time of "load 模型参数" is:0.006665229797363281
+time of "sr" is:0.30706024169921875
+time of "infer" is:0.7060825824737549
+time of "sr" is:0.29619812965393066
+time of "infer" is:0.6872768402099609
+time of "sr" is:0.29660844802856445
+time of "infer" is:0.6903913021087646
+time of "vgg" is:0.6294872760772705
+time of "model to gpu" is:0.003019094467163086
+time of "load 模型参数" is:0.006642580032348633
+time of "sr" is:0.2958524227142334
+time of "infer" is:0.7299754619598389
+time of "sr" is:0.2973949909210205
+time of "infer" is:0.7752273082733154
+time of "vgg" is:0.7078745365142822
+time of "model to gpu" is:0.003024578094482422
+time of "load 模型参数" is:0.006527900695800781
+time of "sr" is:0.2967953681945801
+time of "infer" is:0.6875796318054199
+time of "sr" is:0.29631590843200684
+time of "infer" is:0.6049323081970215
+time of "vgg" is:0.5527276992797852
+time of "model to gpu" is:0.0029621124267578125
+time of "load 模型参数" is:0.00645756721496582
+time of "sr" is:0.2968432903289795
+time of "infer" is:0.6727793216705322
+time of "sr" is:0.29601240158081055
+time of "infer" is:0.5573530197143555
+time of "vgg" is:0.6167519092559814
+time of "model to gpu" is:0.002955198287963867
+time of "load 模型参数" is:0.006365537643432617
+time of "sr" is:0.2955360412597656
+time of "infer" is:0.7243995666503906
+time of "sr" is:0.29659271240234375
+time of "infer" is:0.6227021217346191
+time of "vgg" is:0.580280065536499
+time of "model to gpu" is:0.0030622482299804688
+time of "load 模型参数" is:0.006452322006225586
+time of "sr" is:0.29686903953552246
+time of "infer" is:0.6486482620239258
+time of "sr" is:0.2964158058166504
+time of "infer" is:0.6337184906005859
+time of "vgg" is:0.4983360767364502
+time of "model to gpu" is:0.0029709339141845703
+time of "load 模型参数" is:0.006441354751586914
+time of "sr" is:0.29761815071105957
+time of "infer" is:0.6853010654449463
+time of "sr" is:0.2972137928009033
+time of "infer" is:0.6750881671905518
+time of "vgg" is:0.4879446029663086
+time of "vgg" is:0.5261642932891846
+time of "model to gpu" is:0.0029954910278320312
+time of "load 模型参数" is:0.006829261779785156
+time of "sr" is:0.29732537269592285
+time of "infer" is:0.6677451133728027
+time of "vgg" is:0.5016047954559326
+time of "model to gpu" is:0.003025531768798828
+time of "load 模型参数" is:0.006467580795288086
+time of "sr" is:0.297405481338501
+time of "infer" is:0.6600358486175537
+time of "sr" is:0.297135591506958
+time of "infer" is:0.7191214561462402
+time of "sr" is:0.29653143882751465
+time of "infer" is:0.7332127094268799
+time of "vgg" is:0.5451865196228027
+time of "model to gpu" is:0.0029158592224121094
+time of "load 模型参数" is:0.006318092346191406
+time of "sr" is:0.29660511016845703
+time of "infer" is:0.7138359546661377
+time of "sr" is:0.29762983322143555
+time of "infer" is:0.6163294315338135
+time of "vgg" is:0.6210494041442871
+time of "model to gpu" is:0.0029549598693847656
+time of "load 模型参数" is:0.0064830780029296875
+time of "sr" is:0.2968308925628662
+time of "infer" is:0.716289758682251
+time of "vgg" is:0.6176033020019531
+time of "model to gpu" is:0.0029184818267822266
+time of "load 模型参数" is:0.00639033317565918
+time of "sr" is:0.3002889156341553
+time of "infer" is:0.7309374809265137
+time of "sr" is:0.296522855758667
+time of "infer" is:0.6995465755462646
+time of "vgg" is:0.6158459186553955
+time of "model to gpu" is:0.0030319690704345703
+time of "load 模型参数" is:0.006377696990966797
+time of "sr" is:0.29817748069763184
+time of "infer" is:0.7331392765045166
+time of "sr" is:0.29707932472229004
+time of "infer" is:0.6805899143218994
+time of "vgg" is:0.6459393501281738
+time of "model to gpu" is:0.0029952526092529297
+time of "load 模型参数" is:0.0064618587493896484
+time of "sr" is:0.2973196506500244
+time of "infer" is:0.696575403213501
+time of "sr" is:0.2972991466522217
+time of "infer" is:0.6481070518493652
+time of "vgg" is:0.5624771118164062
+time of "model to gpu" is:0.002919435501098633
+time of "load 模型参数" is:0.006434440612792969
+time of "sr" is:0.2963697910308838
+time of "infer" is:0.6730759143829346
+time of "vgg" is:0.5299241542816162
+time of "model to gpu" is:0.0030689239501953125
+time of "load 模型参数" is:0.0063724517822265625
+time of "sr" is:0.29722166061401367
+time of "infer" is:0.6415045261383057
+time of "sr" is:0.2969036102294922
+time of "infer" is:0.576617956161499
+time of "sr" is:0.3064894676208496
+time of "infer" is:0.6598243713378906
+time of "vgg" is:0.50640869140625
+time of "model to gpu" is:0.002997159957885742
+time of "load 模型参数" is:0.006363868713378906
+time of "sr" is:0.2973649501800537
+time of "infer" is:0.6901845932006836
+time of "sr" is:0.2976651191711426
+time of "infer" is:0.6397264003753662
+time of "vgg" is:0.48903584480285645
+time of "model to gpu" is:0.0029380321502685547
+time of "load 模型参数" is:0.006429433822631836
+time of "sr" is:0.2975602149963379
+time of "infer" is:0.6958236694335938
+time of "sr" is:0.29744601249694824
+time of "infer" is:0.6892640590667725
+time of "vgg" is:0.6206259727478027
+time of "model to gpu" is:0.0029320716857910156
+time of "load 模型参数" is:0.006340503692626953
+time of "sr" is:0.29737377166748047
+time of "infer" is:0.6839699745178223
+time of "vgg" is:0.6144499778747559
+time of "model to gpu" is:0.0029273033142089844
+time of "load 模型参数" is:0.006388425827026367
+time of "sr" is:0.29746246337890625
+time of "infer" is:0.6751348972320557
+time of "sr" is:0.29695892333984375
+time of "infer" is:0.6254463195800781
+time of "vgg" is:0.4886469841003418
+time of "model to gpu" is:0.0029211044311523438
+time of "load 模型参数" is:0.006591081619262695
+time of "sr" is:0.29704880714416504
+time of "infer" is:0.5971534252166748
+time of "sr" is:0.2972128391265869
+time of "infer" is:0.640143871307373
+time of "vgg" is:0.6082572937011719
+time of "model to gpu" is:0.0029735565185546875
+time of "load 模型参数" is:0.0063974857330322266
+time of "sr" is:0.29732441902160645
+time of "infer" is:0.6768767833709717
+time of "sr" is:0.29720425605773926
+time of "infer" is:0.6702613830566406
+time of "vgg" is:0.508796215057373
+time of "model to gpu" is:0.0029342174530029297
+time of "load 模型参数" is:0.00632023811340332
+time of "sr" is:0.2975146770477295
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2317731380462646
+time of "计算视频所有帧的edge difference" is:9.133151769638062
+time of "初始化Envs" is:10.368997573852539
+time of "vgg" is:0.7152657508850098
+time of "准备infer模型" is:3.0718696117401123
+time of "初始化Server" is:3.0815439224243164
+time of "vgg" is:0.6704647541046143
+time of "model to gpu" is:0.004969120025634766
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2549970149993896
+time of "计算视频所有帧的edge difference" is:8.711094379425049
+time of "初始化Envs" is:9.971014738082886
+time of "vgg" is:0.7104289531707764
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:1.2118110656738281
+time of "计算视频所有帧的edge difference" is:9.161656618118286
+time of "初始化Envs" is:10.37812852859497
+time of "vgg" is:0.7165138721466064
+time of "准备infer模型" is:3.0923871994018555
+time of "初始化Server" is:3.103266716003418
+time of "vgg" is:0.6777467727661133
+time of "model to gpu" is:0.005498170852661133
+time of "load 模型参数" is:0.011114835739135742
+time of "sr" is:0.9729688167572021
+time of "infer" is:0.12485289573669434
+time of "sr" is:0.29723620414733887
+time of "infer" is:0.10504984855651855
+time of "vgg" is:0.677433967590332
+time of "model to gpu" is:0.003169536590576172
+time of "load 模型参数" is:0.006840944290161133
+time of "sr" is:0.29680323600769043
+time of "infer" is:0.1021273136138916
+time of "vgg" is:0.6363527774810791
+time of "model to gpu" is:0.003186464309692383
+time of "load 模型参数" is:0.006662607192993164
+time of "sr" is:0.2966129779815674
+time of "infer" is:0.10294222831726074
+time of "sr" is:0.29601407051086426
+time of "infer" is:0.0993800163269043
+time of "vgg" is:0.6301259994506836
+time of "vgg" is:0.6568400859832764
+time of "model to gpu" is:0.0032494068145751953
+time of "load 模型参数" is:0.006734609603881836
+time of "sr" is:0.2961583137512207
+time of "infer" is:0.10321426391601562
+time of "sr" is:0.2971348762512207
+time of "infer" is:0.10579562187194824
+time of "vgg" is:0.705132007598877
+time of "model to gpu" is:0.0033893585205078125
+time of "load 模型参数" is:0.008832931518554688
+time of "sr" is:0.2977321147918701
+time of "infer" is:0.10547518730163574
+time of "vgg" is:0.644599437713623
+time of "vgg" is:0.645266056060791
+time of "model to gpu" is:0.0031168460845947266
+time of "load 模型参数" is:0.006937742233276367
+time of "sr" is:0.29684996604919434
+time of "infer" is:0.09894466400146484
+time of "vgg" is:0.635338306427002
+time of "model to gpu" is:0.003307342529296875
+time of "load 模型参数" is:0.007155895233154297
+time of "sr" is:0.29638218879699707
+time of "infer" is:0.10072731971740723
+time of "vgg" is:0.6512947082519531
+time of "vgg" is:0.6514647006988525
+time of "model to gpu" is:0.0035355091094970703
+time of "load 模型参数" is:0.006948709487915039
+time of "sr" is:0.29680943489074707
+time of "infer" is:0.11240792274475098
+time of "vgg" is:0.7179062366485596
+time of "model to gpu" is:0.0032753944396972656
+time of "load 模型参数" is:0.007053375244140625
+time of "sr" is:0.29675817489624023
+time of "infer" is:0.10160255432128906
+time of "sr" is:0.29669976234436035
+time of "infer" is:0.09957027435302734
+time of "sr" is:0.2965669631958008
+time of "infer" is:0.10248112678527832
+time of "vgg" is:0.6236827373504639
+time of "vgg" is:0.5287594795227051
+time of "vgg" is:0.5265026092529297
+time of "model to gpu" is:0.0030517578125
+time of "load 模型参数" is:0.007084846496582031
+time of "sr" is:0.30563879013061523
+time of "infer" is:0.10703492164611816
+time of "sr" is:0.29660654067993164
+time of "infer" is:0.09914588928222656
+time of "sr" is:0.2965831756591797
+time of "infer" is:0.09972214698791504
+time of "vgg" is:0.7221767902374268
+time of "model to gpu" is:0.003025531768798828
+time of "load 模型参数" is:0.006970882415771484
+time of "sr" is:0.29670286178588867
+time of "infer" is:0.09802484512329102
+time of "sr" is:0.29731321334838867
+time of "infer" is:0.09820818901062012
+time of "vgg" is:0.6033539772033691
+time of "model to gpu" is:0.0030794143676757812
+time of "load 模型参数" is:0.006688594818115234
+time of "sr" is:0.2996046543121338
+time of "infer" is:0.10219216346740723
+time of "sr" is:0.2977485656738281
+time of "infer" is:0.09861040115356445
+time of "vgg" is:0.5228650569915771
+time of "model to gpu" is:0.0029845237731933594
+time of "load 模型参数" is:0.006505012512207031
+time of "sr" is:0.29651761054992676
+time of "infer" is:0.09969401359558105
+time of "sr" is:0.2969400882720947
+time of "infer" is:0.09750604629516602
+time of "vgg" is:0.5210998058319092
+time of "model to gpu" is:0.002971649169921875
+time of "load 模型参数" is:0.012962818145751953
+time of "sr" is:0.2960042953491211
+time of "infer" is:0.1046445369720459
+time of "sr" is:0.2974894046783447
+time of "infer" is:0.09858894348144531
+time of "vgg" is:0.5376832485198975
+time of "model to gpu" is:0.0029878616333007812
+time of "load 模型参数" is:0.006601095199584961
+time of "sr" is:0.2973039150238037
+time of "infer" is:0.0991218090057373
+time of "sr" is:0.2975432872772217
+time of "infer" is:0.0987246036529541
+time of "vgg" is:0.5091981887817383
+time of "model to gpu" is:0.002969503402709961
+time of "load 模型参数" is:0.0065479278564453125
+time of "sr" is:0.2977423667907715
+time of "infer" is:0.10057687759399414
+time of "sr" is:0.2984280586242676
+time of "infer" is:0.09916114807128906
+time of "vgg" is:0.5065584182739258
+time of "vgg" is:0.5082895755767822
+time of "model to gpu" is:0.003078937530517578
+time of "load 模型参数" is:0.006418704986572266
+time of "sr" is:0.29752039909362793
+time of "infer" is:0.09989190101623535
+time of "vgg" is:0.547612190246582
+time of "model to gpu" is:0.0029497146606445312
+time of "load 模型参数" is:0.006461381912231445
+time of "sr" is:0.297443151473999
+time of "infer" is:0.10351181030273438
+time of "sr" is:0.2980475425720215
+time of "infer" is:0.0978546142578125
+time of "sr" is:0.29804015159606934
+time of "infer" is:0.10016345977783203
+time of "vgg" is:0.5313222408294678
+time of "model to gpu" is:0.002994537353515625
+time of "load 模型参数" is:0.0064945220947265625
+time of "sr" is:0.2976970672607422
+time of "infer" is:0.10064268112182617
+time of "sr" is:0.29812002182006836
+time of "infer" is:0.09837698936462402
+time of "vgg" is:0.5240466594696045
+time of "model to gpu" is:0.002975940704345703
+time of "load 模型参数" is:0.0064220428466796875
+time of "sr" is:0.2968719005584717
+time of "infer" is:0.10085654258728027
+time of "vgg" is:0.5052986145019531
+time of "model to gpu" is:0.002960205078125
+time of "load 模型参数" is:0.00640106201171875
+time of "sr" is:0.29639768600463867
+time of "infer" is:0.11143040657043457
+time of "sr" is:0.29799795150756836
+time of "infer" is:0.09834098815917969
+time of "vgg" is:0.6594853401184082
+time of "model to gpu" is:0.0030503273010253906
+time of "load 模型参数" is:0.006530046463012695
+time of "sr" is:0.2986776828765869
+time of "infer" is:0.10210609436035156
+time of "sr" is:0.29853081703186035
+time of "infer" is:0.09990167617797852
+time of "vgg" is:0.653587818145752
+time of "model to gpu" is:0.002995014190673828
+time of "load 模型参数" is:0.00644373893737793
+time of "sr" is:0.29848289489746094
+time of "infer" is:0.10163354873657227
+time of "sr" is:0.2994880676269531
+time of "infer" is:0.09956240653991699
+time of "vgg" is:0.6531672477722168
+time of "model to gpu" is:0.0030388832092285156
+time of "load 模型参数" is:0.006695747375488281
+time of "sr" is:0.29854440689086914
+time of "infer" is:0.10136270523071289
+time of "vgg" is:0.6540577411651611
+time of "model to gpu" is:0.003111600875854492
+time of "load 模型参数" is:0.006484270095825195
+time of "sr" is:0.2982921600341797
+time of "infer" is:0.1005699634552002
+time of "sr" is:0.2986917495727539
+time of "infer" is:0.09941864013671875
+time of "sr" is:0.29865336418151855
+time of "infer" is:0.09868550300598145
+time of "vgg" is:0.6520407199859619
+time of "model to gpu" is:0.0029828548431396484
+time of "load 模型参数" is:0.006789684295654297
+time of "sr" is:0.29821133613586426
+time of "infer" is:0.10022878646850586
+time of "sr" is:0.2981405258178711
+time of "infer" is:0.09987282752990723
+time of "vgg" is:0.6476941108703613
+time of "model to gpu" is:0.0030639171600341797
+time of "load 模型参数" is:0.006464958190917969
+time of "sr" is:0.29777097702026367
+time of "infer" is:0.10030889511108398
+time of "sr" is:0.2983691692352295
+time of "infer" is:0.09942102432250977
+time of "vgg" is:0.6397650241851807
+time of "model to gpu" is:0.0029566287994384766
+time of "load 模型参数" is:0.006404399871826172
+time of "sr" is:0.2983882427215576
+time of "infer" is:0.09964942932128906
+time of "vgg" is:0.5106029510498047
+time of "model to gpu" is:0.0030176639556884766
+time of "load 模型参数" is:0.006490230560302734
+time of "sr" is:0.29825568199157715
+time of "infer" is:0.10002875328063965
+time of "sr" is:0.2986905574798584
+time of "infer" is:0.0979154109954834
+time of "vgg" is:0.6293280124664307
+time of "model to gpu" is:0.003024578094482422
+time of "load 模型参数" is:0.006439685821533203
+time of "sr" is:0.3000936508178711
+time of "infer" is:0.10050773620605469
+time of "sr" is:0.2987830638885498
+time of "infer" is:0.09772253036499023
+time of "vgg" is:0.6619677543640137
+time of "model to gpu" is:0.003001689910888672
+time of "load 模型参数" is:0.006657123565673828
+time of "sr" is:0.2987935543060303
+time of "infer" is:0.1032247543334961
+time of "sr" is:0.2984161376953125
+time of "infer" is:0.10037493705749512
+time of "vgg" is:0.5170161724090576
+time of "model to gpu" is:0.0030565261840820312
+time of "load 模型参数" is:0.006767749786376953
+time of "sr" is:0.2980668544769287
+time of "infer" is:0.09882116317749023
+time of "vgg" is:0.5144977569580078
+time of "model to gpu" is:0.0030012130737304688
+time of "load 模型参数" is:0.006421566009521484
+time of "sr" is:0.2984135150909424
+time of "infer" is:0.10265898704528809
+time of "vgg" is:0.5680217742919922
+time of "model to gpu" is:0.0030028820037841797
+time of "load 模型参数" is:0.0065348148345947266
+time of "sr" is:0.29849863052368164
+time of "infer" is:0.10091471672058105
+time of "vgg" is:0.6699721813201904
+time of "model to gpu" is:0.0029783248901367188
+time of "load 模型参数" is:0.006596565246582031
+time of "sr" is:0.29770493507385254
+time of "infer" is:0.09943103790283203
+time of "sr" is:0.30463433265686035
+time of "infer" is:0.10787534713745117
+time of "vgg" is:0.6552314758300781
+time of "model to gpu" is:0.002965211868286133
+time of "load 模型参数" is:0.010206937789916992
+time of "sr" is:0.298419713973999
+time of "infer" is:0.0998232364654541
+time of "vgg" is:0.6565380096435547
+time of "model to gpu" is:0.002987384796142578
+time of "load 模型参数" is:0.006433725357055664
+time of "sr" is:0.298321008682251
+time of "infer" is:0.09951019287109375
+time of "vgg" is:0.6416723728179932
+time of "model to gpu" is:0.002941608428955078
+time of "load 模型参数" is:0.0063359737396240234
+time of "sr" is:0.2976245880126953
+time of "infer" is:0.09968924522399902
+time of "vgg" is:0.6428792476654053
+time of "model to gpu" is:0.002972126007080078
+time of "load 模型参数" is:0.006402492523193359
+time of "sr" is:0.29658937454223633
+time of "infer" is:0.09899544715881348
+time of "sr" is:0.299236536026001
+time of "infer" is:0.0970311164855957
+time of "vgg" is:0.6432969570159912
+time of "model to gpu" is:0.0029408931732177734
+time of "load 模型参数" is:0.006407737731933594
+time of "sr" is:0.2977452278137207
+time of "infer" is:0.11082959175109863
+time of "sr" is:0.2990713119506836
+time of "infer" is:0.10143327713012695
+time of "sr" is:0.2990901470184326
+time of "infer" is:0.10146570205688477
+time of "vgg" is:0.6396644115447998
+time of "model to gpu" is:0.0036079883575439453
+time of "load 模型参数" is:0.007577657699584961
+time of "sr" is:0.29929137229919434
+time of "infer" is:0.10255694389343262
+time of "sr" is:0.2995774745941162
+time of "infer" is:0.10051774978637695
+time of "vgg" is:0.6223621368408203
+time of "model to gpu" is:0.003616809844970703
+time of "load 模型参数" is:0.007124662399291992
+time of "sr" is:0.29889702796936035
+time of "infer" is:0.10264468193054199
+time of "sr" is:0.29971790313720703
+time of "infer" is:0.10091876983642578
+time of "vgg" is:0.6433358192443848
+time of "model to gpu" is:0.004020214080810547
+time of "load 模型参数" is:0.008324146270751953
+time of "sr" is:0.29899072647094727
+time of "infer" is:0.10727715492248535
+time of "sr" is:0.29909658432006836
+time of "infer" is:0.11565279960632324
+time of "vgg" is:0.7355589866638184
+time of "model to gpu" is:0.0030739307403564453
+time of "load 模型参数" is:0.007002115249633789
+time of "sr" is:0.2999076843261719
+time of "infer" is:0.10480475425720215
+time of "sr" is:0.29929518699645996
+time of "infer" is:0.10110282897949219
+time of "vgg" is:0.645911693572998
+time of "model to gpu" is:0.003536224365234375
+time of "load 模型参数" is:0.007828474044799805
+time of "sr" is:0.2987070083618164
+time of "infer" is:0.1035776138305664
+time of "sr" is:0.29944443702697754
+time of "infer" is:0.10167717933654785
+time of "vgg" is:0.6359179019927979
+time of "model to gpu" is:0.003522634506225586
+time of "load 模型参数" is:0.007137775421142578
+time of "sr" is:0.2990076541900635
+time of "infer" is:0.10367178916931152
+time of "sr" is:0.2997407913208008
+time of "infer" is:0.10977506637573242
+time of "sr" is:0.2989840507507324
+time of "infer" is:0.10756754875183105
+time of "vgg" is:0.699857234954834
+time of "model to gpu" is:0.004355669021606445
+time of "load 模型参数" is:0.008439064025878906
+time of "sr" is:0.3006622791290283
+time of "infer" is:0.10993838310241699
+time of "sr" is:0.29972195625305176
+time of "infer" is:0.10329127311706543
+time of "vgg" is:0.6919765472412109
+time of "model to gpu" is:0.0038683414459228516
+time of "load 模型参数" is:0.008375167846679688
+time of "sr" is:0.2992582321166992
+time of "infer" is:0.10550141334533691
+time of "sr" is:0.2994966506958008
+time of "infer" is:0.10332560539245605
+time of "vgg" is:0.6772286891937256
+time of "model to gpu" is:0.0030722618103027344
+time of "load 模型参数" is:0.006761312484741211
+time of "sr" is:0.2981882095336914
+time of "infer" is:0.10495424270629883
+time of "sr" is:0.3001983165740967
+time of "infer" is:0.10271739959716797
+time of "vgg" is:0.7223689556121826
+time of "model to gpu" is:0.003221273422241211
+time of "load 模型参数" is:0.006762504577636719
+time of "sr" is:0.29859495162963867
+time of "infer" is:0.1028144359588623
+time of "sr" is:0.2996680736541748
+time of "infer" is:0.10203742980957031
+time of "vgg" is:0.6665365695953369
+time of "model to gpu" is:0.0030701160430908203
+time of "load 模型参数" is:0.006509304046630859
+time of "sr" is:0.2994089126586914
+time of "infer" is:0.09948158264160156
+time of "vgg" is:0.644709587097168
+time of "model to gpu" is:0.0030815601348876953
+time of "load 模型参数" is:0.006503105163574219
+time of "sr" is:0.2996218204498291
+time of "infer" is:0.10412931442260742
+time of "sr" is:0.2993037700653076
+time of "infer" is:0.10176563262939453
+time of "vgg" is:0.5247154235839844
+time of "model to gpu" is:0.00311279296875
+time of "load 模型参数" is:0.006644248962402344
+time of "sr" is:0.29860591888427734
+time of "infer" is:0.10678267478942871
+time of "vgg" is:0.6437463760375977
+time of "model to gpu" is:0.0034894943237304688
+time of "load 模型参数" is:0.007355213165283203
+time of "sr" is:0.2997746467590332
+time of "infer" is:0.10048031806945801
+time of "sr" is:0.29827213287353516
+time of "infer" is:0.1058204174041748
+time of "vgg" is:0.5853269100189209
+time of "model to gpu" is:0.0035240650177001953
+time of "load 模型参数" is:0.007187843322753906
+time of "sr" is:0.2983849048614502
+time of "infer" is:0.10326337814331055
+time of "sr" is:0.2992057800292969
+time of "infer" is:0.10548639297485352
+time of "vgg" is:0.6649909019470215
+time of "model to gpu" is:0.003118276596069336
+time of "load 模型参数" is:0.006974697113037109
+time of "sr" is:0.2993199825286865
+time of "infer" is:0.10995626449584961
+time of "sr" is:0.30000925064086914
+time of "infer" is:0.10456705093383789
+time of "sr" is:0.3007795810699463
+time of "infer" is:0.0997159481048584
+time of "vgg" is:0.6832606792449951
+time of "model to gpu" is:0.0034461021423339844
+time of "load 模型参数" is:0.006955385208129883
+time of "sr" is:0.30051112174987793
+time of "infer" is:0.10625481605529785
+time of "sr" is:0.2993960380554199
+time of "infer" is:0.09795141220092773
+time of "sr" is:0.2993478775024414
+time of "infer" is:0.09813976287841797
+time of "vgg" is:0.627406120300293
+time of "model to gpu" is:0.002961397171020508
+time of "load 模型参数" is:0.006897926330566406
+time of "sr" is:0.29923319816589355
+time of "infer" is:0.10147333145141602
+time of "sr" is:0.3002331256866455
+time of "infer" is:0.09863018989562988
+time of "sr" is:0.2992706298828125
+time of "infer" is:0.09813809394836426
+time of "vgg" is:0.5518815517425537
+time of "model to gpu" is:0.002996683120727539
+time of "load 模型参数" is:0.006443023681640625
+time of "sr" is:0.2986583709716797
+time of "infer" is:0.09825778007507324
+time of "sr" is:0.29920268058776855
+time of "infer" is:0.09848165512084961
+time of "sr" is:0.29926133155822754
+time of "infer" is:0.09889435768127441
+time of "vgg" is:0.6365137100219727
+time of "model to gpu" is:0.0029587745666503906
+time of "load 模型参数" is:0.006488800048828125
+time of "sr" is:0.2991929054260254
+time of "infer" is:0.1114802360534668
+time of "sr" is:0.2992827892303467
+time of "infer" is:0.10451507568359375
+time of "sr" is:0.30034351348876953
+time of "infer" is:0.10021066665649414
+time of "vgg" is:0.7253854274749756
+time of "model to gpu" is:0.0030977725982666016
+time of "load 模型参数" is:0.006627798080444336
+time of "sr" is:0.29977846145629883
+time of "infer" is:0.10054278373718262
+time of "sr" is:0.2993309497833252
+time of "infer" is:0.09826850891113281
+time of "vgg" is:0.6590609550476074
+time of "model to gpu" is:0.0029876232147216797
+time of "load 模型参数" is:0.006437778472900391
+time of "sr" is:0.29969000816345215
+time of "infer" is:0.10260319709777832
+time of "sr" is:0.2996397018432617
+time of "infer" is:0.10332274436950684
+time of "sr" is:0.2996096611022949
+time of "infer" is:0.10495901107788086
+time of "vgg" is:0.6447691917419434
+time of "model to gpu" is:0.0030088424682617188
+time of "load 模型参数" is:0.006528615951538086
+time of "sr" is:0.29967737197875977
+time of "infer" is:0.10542130470275879
+time of "sr" is:0.29944443702697754
+time of "infer" is:0.09999990463256836
+time of "sr" is:0.2998058795928955
+time of "infer" is:0.09866213798522949
+time of "vgg" is:0.6451001167297363
+time of "model to gpu" is:0.002984762191772461
+time of "load 模型参数" is:0.006480216979980469
+time of "sr" is:0.2993900775909424
+time of "infer" is:0.09892511367797852
+time of "sr" is:0.30002856254577637
+time of "infer" is:0.0983281135559082
+time of "vgg" is:0.5579373836517334
+time of "model to gpu" is:0.0030641555786132812
+time of "load 模型参数" is:0.006459951400756836
+time of "sr" is:0.2996828556060791
+time of "infer" is:0.10634779930114746
+time of "sr" is:0.2996542453765869
+time of "infer" is:0.10486531257629395
+time of "vgg" is:0.6925086975097656
+time of "model to gpu" is:0.002965688705444336
+time of "load 模型参数" is:0.006601095199584961
+time of "sr" is:0.2996640205383301
+time of "infer" is:0.09963345527648926
+time of "sr" is:0.2996222972869873
+time of "infer" is:0.10130929946899414
+time of "vgg" is:0.5220527648925781
+time of "model to gpu" is:0.0029494762420654297
+time of "load 模型参数" is:0.006466388702392578
+time of "sr" is:0.29988670349121094
+time of "infer" is:0.10854101181030273
+time of "sr" is:0.29946255683898926
+time of "infer" is:0.10224485397338867
+time of "vgg" is:0.5184412002563477
+time of "model to gpu" is:0.0029633045196533203
+time of "load 模型参数" is:0.006526947021484375
+time of "sr" is:0.2992990016937256
+time of "infer" is:0.10435891151428223
+time of "sr" is:0.299837589263916
+time of "infer" is:0.09764909744262695
+time of "vgg" is:0.5094401836395264
+time of "model to gpu" is:0.0029909610748291016
+time of "load 模型参数" is:0.006504535675048828
+time of "sr" is:0.2997570037841797
+time of "infer" is:0.09969663619995117
+time of "sr" is:0.29961371421813965
+time of "infer" is:0.09893250465393066
+time of "vgg" is:0.5131254196166992
+time of "model to gpu" is:0.003063678741455078
+time of "load 模型参数" is:0.0064928531646728516
+time of "sr" is:0.29898715019226074
+time of "infer" is:0.10433340072631836
+time of "sr" is:0.29959750175476074
+time of "infer" is:0.10428452491760254
+time of "vgg" is:0.6167864799499512
+time of "model to gpu" is:0.0029931068420410156
+time of "load 模型参数" is:0.0066525936126708984
+time of "sr" is:0.2998976707458496
+time of "infer" is:0.09930777549743652
+time of "sr" is:0.3002140522003174
+time of "infer" is:0.09837222099304199
+time of "sr" is:0.3005027770996094
+time of "infer" is:0.09881925582885742
+time of "vgg" is:0.6551694869995117
+time of "model to gpu" is:0.003091096878051758
+time of "load 模型参数" is:0.006512641906738281
+time of "sr" is:0.29945993423461914
+time of "infer" is:0.10326075553894043
+time of "sr" is:0.30071473121643066
+time of "infer" is:0.10092759132385254
+time of "sr" is:0.3005948066711426
+time of "infer" is:0.10234475135803223
+time of "vgg" is:0.6568968296051025
+time of "model to gpu" is:0.003246784210205078
+time of "load 模型参数" is:0.007135868072509766
+time of "sr" is:0.3000466823577881
+time of "infer" is:0.10357427597045898
+time of "sr" is:0.3006408214569092
+time of "infer" is:0.09952807426452637
+time of "sr" is:0.2988274097442627
+time of "infer" is:0.10197043418884277
+time of "vgg" is:0.6654675006866455
+time of "model to gpu" is:0.0030548572540283203
+time of "load 模型参数" is:0.006436824798583984
+time of "sr" is:0.29955291748046875
+time of "infer" is:0.10065865516662598
+time of "sr" is:0.30069637298583984
+time of "infer" is:0.0991828441619873
+time of "vgg" is:0.6908450126647949
+time of "model to gpu" is:0.003023386001586914
+time of "load 模型参数" is:0.006603240966796875
+time of "sr" is:0.29993247985839844
+time of "infer" is:0.09969925880432129
+time of "sr" is:0.3001515865325928
+time of "infer" is:0.09709548950195312
+time of "vgg" is:0.6345810890197754
+time of "model to gpu" is:0.0029993057250976562
+time of "load 模型参数" is:0.006451845169067383
+time of "sr" is:0.29912686347961426
+time of "infer" is:0.0999765396118164
+time of "vgg" is:0.5450694561004639
+time of "model to gpu" is:0.0029947757720947266
+time of "load 模型参数" is:0.006481647491455078
+time of "sr" is:0.29967236518859863
+time of "infer" is:0.10116457939147949
+time of "sr" is:0.30004453659057617
+time of "infer" is:0.09758377075195312
+time of "vgg" is:0.5151476860046387
+time of "model to gpu" is:0.002973318099975586
+time of "load 模型参数" is:0.006510257720947266
+time of "sr" is:0.29981279373168945
+time of "infer" is:0.0970156192779541
+time of "sr" is:0.2999000549316406
+time of "infer" is:0.1017303466796875
+time of "vgg" is:0.5222339630126953
+time of "model to gpu" is:0.0031206607818603516
+time of "load 模型参数" is:0.006817817687988281
+time of "sr" is:0.2992584705352783
+time of "infer" is:0.09962582588195801
+time of "sr" is:0.3002591133117676
+time of "infer" is:0.09713125228881836
+time of "vgg" is:0.5337932109832764
+time of "model to gpu" is:0.0032067298889160156
+time of "load 模型参数" is:0.006773471832275391
+time of "sr" is:0.30228686332702637
+time of "infer" is:0.10706472396850586
+time of "sr" is:0.2988615036010742
+time of "infer" is:0.1017308235168457
+time of "sr" is:0.29885411262512207
+time of "infer" is:0.1002814769744873
+time of "vgg" is:0.6169238090515137
+time of "model to gpu" is:0.002939939498901367
+time of "load 模型参数" is:0.006459712982177734
+time of "sr" is:0.2997012138366699
+time of "infer" is:0.09859943389892578
+time of "sr" is:0.2987680435180664
+time of "infer" is:0.0965421199798584
+time of "vgg" is:0.5175502300262451
+time of "model to gpu" is:0.0029458999633789062
+time of "load 模型参数" is:0.006433963775634766
+time of "sr" is:0.2985265254974365
+time of "infer" is:0.09920454025268555
+time of "sr" is:0.2991800308227539
+time of "infer" is:0.09813618659973145
+time of "vgg" is:0.6807618141174316
+time of "model to gpu" is:0.002963542938232422
+time of "load 模型参数" is:0.00657343864440918
+time of "sr" is:0.3003809452056885
+time of "infer" is:0.09999346733093262
+time of "sr" is:0.29850172996520996
+time of "infer" is:0.09659123420715332
+time of "vgg" is:0.6440587043762207
+time of "model to gpu" is:0.0029249191284179688
+time of "load 模型参数" is:0.0064280033111572266
+time of "sr" is:0.29909706115722656
+time of "infer" is:0.09978580474853516
+time of "sr" is:0.29967570304870605
+time of "infer" is:0.09735369682312012
+time of "vgg" is:0.6393759250640869
+time of "model to gpu" is:0.00296783447265625
+time of "load 模型参数" is:0.006448268890380859
+time of "sr" is:0.29880475997924805
+time of "infer" is:0.0994558334350586
+time of "vgg" is:0.5105175971984863
+time of "model to gpu" is:0.00296783447265625
+time of "load 模型参数" is:0.0064601898193359375
+time of "sr" is:0.30014991760253906
+time of "infer" is:0.09814739227294922
+time of "sr" is:0.29786014556884766
+time of "infer" is:0.10061097145080566
+time of "sr" is:0.29932308197021484
+time of "infer" is:0.09686946868896484
+time of "vgg" is:0.6011145114898682
+time of "model to gpu" is:0.0029723644256591797
+time of "load 模型参数" is:0.006499290466308594
+time of "sr" is:0.2997760772705078
+time of "infer" is:0.09956836700439453
+time of "sr" is:0.30089783668518066
+time of "infer" is:0.10063767433166504
+time of "sr" is:0.29906296730041504
+time of "infer" is:0.09736108779907227
+time of "vgg" is:0.6318149566650391
+time of "model to gpu" is:0.002969980239868164
+time of "load 模型参数" is:0.006536245346069336
+time of "sr" is:0.29952502250671387
+time of "infer" is:0.09932756423950195
+time of "sr" is:0.298720121383667
+time of "infer" is:0.09756135940551758
+time of "sr" is:0.2986869812011719
+time of "infer" is:0.09766960144042969
+time of "vgg" is:0.6613545417785645
+time of "model to gpu" is:0.002950429916381836
+time of "load 模型参数" is:0.006455421447753906
+time of "sr" is:0.29856014251708984
+time of "infer" is:0.11190009117126465
+time of "sr" is:0.2992100715637207
+time of "infer" is:0.1096031665802002
+time of "vgg" is:0.6729755401611328
+time of "vgg" is:0.6905722618103027
+time of "model to gpu" is:0.003976106643676758
+time of "load 模型参数" is:0.00873255729675293
+time of "sr" is:0.3003549575805664
+time of "infer" is:0.10349869728088379
+time of "vgg" is:0.6739692687988281
+time of "all" is:153.66178035736084
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:3.9088456630706787
+time of "计算视频所有帧的edge difference" is:9.874785900115967
+time of "初始化Envs" is:13.787384033203125
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:4.038630723953247
+time of "计算视频所有帧的edge difference" is:10.384619235992432
+time of "初始化Envs" is:14.42806100845337
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:3.971342086791992
+time of "计算视频所有帧的edge difference" is:9.729403972625732
+time of "初始化Envs" is:13.704493045806885
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:4.003175258636475
+time of "计算视频所有帧的edge difference" is:10.510091066360474
+time of "初始化Envs" is:14.517689943313599
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:4.002673625946045
+time of "计算视频所有帧的edge difference" is:9.418176412582397
+time of "初始化Envs" is:13.424565315246582
+time of "vgg" is:0.7432878017425537
+time of "准备infer模型" is:0.6428191661834717
+time of "初始化Server" is:0.6521921157836914
+time of "vgg" is:0.05152630805969238
+time of "model to gpu" is:0.004582405090332031
+ignore time of "load res.txt"
+ignore time of "load pca model"
+time of "准备vgg" is:3.9616947174072266
+time of "计算视频所有帧的edge difference" is:8.858770847320557
+time of "初始化Envs" is:12.823951482772827
+time of "vgg" is:0.7385387420654297
+time of "准备infer模型" is:0.6392598152160645
+time of "初始化Server" is:0.6484973430633545
+time of "vgg" is:0.0558924674987793
+time of "model to gpu" is:0.004633665084838867
+time of "load 模型参数" is:0.009075641632080078
+time of "sr" is:0.3065018653869629
+time of "infer" is:0.11981344223022461
+time of "sr" is:0.2972099781036377
+time of "infer" is:0.11420440673828125
+time of "vgg" is:0.04890608787536621
+time of "model to gpu" is:0.0036602020263671875
+time of "load 模型参数" is:0.008240938186645508
+time of "sr" is:0.29723405838012695
+time of "infer" is:0.11183786392211914
+time of "vgg" is:0.04699087142944336
+time of "model to gpu" is:0.003690481185913086
+time of "load 模型参数" is:0.0083160400390625
+time of "sr" is:0.2969481945037842
+time of "infer" is:0.09888005256652832
+time of "sr" is:0.29599857330322266
+time of "infer" is:0.10022306442260742
+time of "vgg" is:0.04708433151245117
+time of "model to gpu" is:0.0030841827392578125
+time of "load 模型参数" is:0.006742000579833984
+time of "sr" is:0.2979567050933838
+time of "infer" is:0.10885286331176758
+time of "vgg" is:0.04729437828063965
+time of "model to gpu" is:0.003165721893310547
+time of "load 模型参数" is:0.007517576217651367
+time of "sr" is:0.2960519790649414
+time of "infer" is:0.10575079917907715
+time of "sr" is:0.2960028648376465
+time of "infer" is:0.10341930389404297
+time of "vgg" is:0.04632759094238281
+time of "model to gpu" is:0.0030715465545654297
+time of "load 模型参数" is:0.006510496139526367
+time of "sr" is:0.2962205410003662
+time of "infer" is:0.09807276725769043
+time of "vgg" is:0.048506736755371094
+time of "vgg" is:0.0474698543548584
+time of "vgg" is:0.04778552055358887
+time of "model to gpu" is:0.003406524658203125
+time of "load 模型参数" is:0.006993770599365234
+time of "sr" is:0.2973294258117676
+time of "infer" is:0.10784649848937988
+time of "vgg" is:0.04685664176940918
+time of "vgg" is:0.04760909080505371
+time of "model to gpu" is:0.003229379653930664
+time of "load 模型参数" is:0.007032871246337891
+time of "sr" is:0.30026769638061523
+time of "infer" is:0.11150050163269043
+time of "sr" is:0.2977726459503174
+time of "infer" is:0.09892916679382324
+time of "vgg" is:0.04785585403442383
+time of "model to gpu" is:0.0028204917907714844
+time of "load 模型参数" is:0.006421089172363281
+time of "sr" is:0.29882001876831055
+time of "infer" is:0.11141252517700195
+time of "vgg" is:0.04957985877990723
+time of "model to gpu" is:0.0038747787475585938
+time of "load 模型参数" is:0.00928044319152832
+time of "sr" is:0.29909348487854004
+time of "infer" is:0.1114645004272461
+time of "vgg" is:0.04820990562438965
+time of "model to gpu" is:0.0038909912109375
+time of "load 模型参数" is:0.008723258972167969
+time of "sr" is:0.29855990409851074
+time of "infer" is:0.10596585273742676
+time of "vgg" is:0.04732918739318848
+time of "model to gpu" is:0.0038521289825439453
+time of "load 模型参数" is:0.008381128311157227
+time of "sr" is:0.30049920082092285
+time of "infer" is:0.09977889060974121
+time of "sr" is:0.29856324195861816
+time of "infer" is:0.09920001029968262
+time of "vgg" is:0.05115342140197754
+time of "model to gpu" is:0.003123760223388672
+time of "load 模型参数" is:0.006711244583129883
+time of "sr" is:0.298586368560791
+time of "infer" is:0.10060358047485352
+time of "sr" is:0.29854822158813477
+time of "infer" is:0.10435295104980469
+time of "vgg" is:0.04800605773925781
+time of "model to gpu" is:0.0029747486114501953
+time of "load 模型参数" is:0.006704092025756836
+time of "sr" is:0.2989540100097656
+time of "infer" is:0.10848164558410645
+time of "sr" is:0.2983829975128174
+time of "infer" is:0.11220908164978027
+time of "vgg" is:0.04798579216003418
+time of "model to gpu" is:0.003793954849243164
+time of "load 模型参数" is:0.008767843246459961
+time of "sr" is:0.29828929901123047
+time of "infer" is:0.09997248649597168
+time of "sr" is:0.3011507987976074
+time of "infer" is:0.10751914978027344
+time of "vgg" is:0.04773402214050293
+time of "model to gpu" is:0.002959728240966797
+time of "load 模型参数" is:0.007115602493286133
+time of "sr" is:0.29858994483947754
+time of "infer" is:0.10311293601989746
+time of "sr" is:0.29801416397094727
+time of "infer" is:0.10044074058532715
+time of "vgg" is:0.04739212989807129
+time of "model to gpu" is:0.0029137134552001953
+time of "load 模型参数" is:0.006499528884887695
+time of "sr" is:0.2978513240814209
+time of "infer" is:0.10378098487854004
+time of "sr" is:0.2988877296447754
+time of "infer" is:0.0987396240234375
+time of "vgg" is:0.04837608337402344
+time of "model to gpu" is:0.002917051315307617
+time of "load 模型参数" is:0.006505012512207031
+time of "sr" is:0.2983255386352539
+time of "infer" is:0.10353732109069824
+time of "sr" is:0.29890942573547363
+time of "infer" is:0.10088181495666504
+time of "vgg" is:0.04733538627624512
+time of "model to gpu" is:0.0029463768005371094
+time of "load 模型参数" is:0.00650787353515625
+time of "sr" is:0.2987983226776123
+time of "infer" is:0.10091924667358398
+time of "sr" is:0.29857826232910156
+time of "infer" is:0.10898327827453613
+time of "sr" is:0.2987799644470215
+time of "infer" is:0.10909700393676758
+time of "vgg" is:0.048131704330444336
+time of "model to gpu" is:0.002889394760131836
+time of "load 模型参数" is:0.007006168365478516
+time of "sr" is:0.298736572265625
+time of "infer" is:0.10358858108520508
+time of "vgg" is:0.04719424247741699
+time of "model to gpu" is:0.0029261112213134766
+time of "load 模型参数" is:0.006578922271728516
+time of "sr" is:0.29909229278564453
+time of "infer" is:0.09981083869934082
+time of "sr" is:0.30016469955444336
+time of "infer" is:0.09927821159362793
+time of "sr" is:0.2986478805541992
+time of "infer" is:0.09969139099121094
+time of "vgg" is:0.04716324806213379
+time of "model to gpu" is:0.002907991409301758
+time of "load 模型参数" is:0.006548404693603516
+time of "sr" is:0.2984895706176758
+time of "infer" is:0.1026906967163086
+time of "sr" is:0.29979419708251953
+time of "infer" is:0.1002805233001709
+time of "vgg" is:0.047519683837890625
+time of "model to gpu" is:0.002900838851928711
+time of "load 模型参数" is:0.00646662712097168
+time of "sr" is:0.2994039058685303
+time of "infer" is:0.09995913505554199
+time of "sr" is:0.2994801998138428
+time of "infer" is:0.09998941421508789
+time of "sr" is:0.29920291900634766
+time of "infer" is:0.10248732566833496
+time of "sr" is:0.29974818229675293
+time of "infer" is:0.10264706611633301
+time of "sr" is:0.29955244064331055
+time of "infer" is:0.10269498825073242
+time of "sr" is:0.29953622817993164
+time of "infer" is:0.10416531562805176
+time of "vgg" is:0.04756951332092285
+time of "model to gpu" is:0.002892017364501953
+time of "load 模型参数" is:0.0067272186279296875
+time of "sr" is:0.2992708683013916
+time of "infer" is:0.10366272926330566
+time of "vgg" is:0.047273874282836914
+time of "model to gpu" is:0.0028374195098876953
+time of "load 模型参数" is:0.006480216979980469
+time of "sr" is:0.299283504486084
+time of "infer" is:0.1009054183959961
+time of "sr" is:0.29889822006225586
+time of "infer" is:0.10079646110534668
+time of "vgg" is:0.047452688217163086
+time of "model to gpu" is:0.002880573272705078
+time of "load 模型参数" is:0.006493568420410156
+time of "sr" is:0.30011940002441406
+time of "infer" is:0.10773897171020508
+time of "vgg" is:0.04739785194396973
+time of "model to gpu" is:0.0030448436737060547
+time of "load 模型参数" is:0.007837533950805664
+time of "sr" is:0.29894471168518066
+time of "infer" is:0.10570788383483887
+time of "sr" is:0.29926276206970215
+time of "infer" is:0.09846806526184082
+time of "vgg" is:0.04662728309631348
+time of "model to gpu" is:0.0028944015502929688
+time of "load 模型参数" is:0.006485462188720703
+time of "sr" is:0.2979757785797119
+time of "infer" is:0.10566973686218262
+time of "sr" is:0.29900670051574707
+time of "infer" is:0.1045830249786377
+time of "sr" is:0.29854655265808105
+time of "infer" is:0.1027669906616211
+time of "vgg" is:0.047499895095825195
+time of "model to gpu" is:0.003418445587158203
+time of "load 模型参数" is:0.0073087215423583984
+time of "sr" is:0.2985498905181885
+time of "infer" is:0.10195350646972656
+time of "sr" is:0.29843854904174805
+time of "infer" is:0.10211610794067383
+time of "vgg" is:0.04731631278991699
+time of "model to gpu" is:0.0034394264221191406
+time of "load 模型参数" is:0.007194995880126953
+time of "sr" is:0.29967498779296875
+time of "infer" is:0.10288786888122559
+time of "sr" is:0.29872775077819824
+time of "infer" is:0.09904289245605469
+time of "vgg" is:0.04650568962097168
+time of "model to gpu" is:0.002874135971069336
+time of "load 模型参数" is:0.006854057312011719
+time of "sr" is:0.29848289489746094
+time of "infer" is:0.09806656837463379
+time of "vgg" is:0.046629905700683594
+time of "model to gpu" is:0.002888917922973633
+time of "load 模型参数" is:0.006420135498046875
+time of "sr" is:0.29909729957580566
+time of "infer" is:0.09835338592529297
+time of "sr" is:0.29831838607788086
+time of "infer" is:0.10059165954589844
+time of "vgg" is:0.04662585258483887
+time of "model to gpu" is:0.0028858184814453125
+time of "load 模型参数" is:0.006417036056518555
+time of "sr" is:0.29920268058776855
+time of "infer" is:0.09640026092529297
+time of "sr" is:0.29900455474853516
+time of "infer" is:0.09645986557006836
+time of "vgg" is:0.046690940856933594
+time of "model to gpu" is:0.002874612808227539
+time of "load 模型参数" is:0.006396293640136719
+time of "sr" is:0.2989022731781006
+time of "infer" is:0.09669303894042969
+time of "sr" is:0.2994718551635742
+time of "infer" is:0.09760904312133789
+time of "vgg" is:0.0465240478515625
+time of "model to gpu" is:0.0029168128967285156
+time of "load 模型参数" is:0.0066089630126953125
+time of "sr" is:0.2993314266204834
+time of "infer" is:0.09670591354370117
+time of "vgg" is:0.04673433303833008
+time of "model to gpu" is:0.0029070377349853516
+time of "load 模型参数" is:0.0064008235931396484
+time of "sr" is:0.2991909980773926
+time of "infer" is:0.09881067276000977
+time of "vgg" is:0.046549081802368164
+time of "model to gpu" is:0.0029091835021972656
+time of "load 模型参数" is:0.006442546844482422
+time of "sr" is:0.29961204528808594
+time of "infer" is:0.09767603874206543
+time of "vgg" is:0.046514272689819336
+time of "model to gpu" is:0.0028777122497558594
+time of "load 模型参数" is:0.006407737731933594
+time of "sr" is:0.3000926971435547
+time of "infer" is:0.0993039608001709
+time of "sr" is:0.29901123046875
+time of "infer" is:0.09844374656677246
+time of "vgg" is:0.04652094841003418
+time of "model to gpu" is:0.002885103225708008
+time of "load 模型参数" is:0.0063893795013427734
+time of "sr" is:0.2986898422241211
+time of "infer" is:0.09813308715820312
+time of "vgg" is:0.04649853706359863
+time of "model to gpu" is:0.002895832061767578
+time of "load 模型参数" is:0.006369113922119141
+time of "sr" is:0.2987542152404785
+time of "infer" is:0.09887218475341797
+time of "vgg" is:0.04716157913208008
+time of "model to gpu" is:0.0028862953186035156
+time of "load 模型参数" is:0.006418943405151367
+time of "sr" is:0.2992088794708252
+time of "infer" is:0.09768891334533691
+time of "vgg" is:0.04665875434875488
+time of "model to gpu" is:0.0028829574584960938
+time of "load 模型参数" is:0.006376028060913086
+time of "sr" is:0.29900693893432617
+time of "infer" is:0.09811949729919434
+time of "sr" is:0.2987542152404785
+time of "infer" is:0.09846758842468262
+time of "vgg" is:0.04652142524719238
+time of "model to gpu" is:0.002897977828979492
+time of "load 模型参数" is:0.0064504146575927734
+time of "sr" is:0.29908299446105957
+time of "infer" is:0.09837961196899414
+time of "sr" is:0.2979774475097656
+time of "infer" is:0.09824180603027344
+time of "sr" is:0.29804039001464844
+time of "infer" is:0.09833574295043945
+time of "vgg" is:0.046370506286621094
+time of "model to gpu" is:0.0028972625732421875
+time of "load 模型参数" is:0.006615161895751953
+time of "sr" is:0.2990849018096924
+time of "infer" is:0.0991818904876709
+time of "sr" is:0.29761719703674316
+time of "infer" is:0.10106086730957031
+time of "vgg" is:0.04645395278930664
+time of "model to gpu" is:0.002885580062866211
+time of "load 模型参数" is:0.006532430648803711
+time of "sr" is:0.29878973960876465
+time of "infer" is:0.09932971000671387
+time of "sr" is:0.29731059074401855
+time of "infer" is:0.09837937355041504
+time of "vgg" is:0.0463714599609375
+time of "model to gpu" is:0.0029222965240478516
+time of "load 模型参数" is:0.006616353988647461
+time of "sr" is:0.2983829975128174
+time of "infer" is:0.09904646873474121
+time of "sr" is:0.29757118225097656
+time of "infer" is:0.09929847717285156
+time of "vgg" is:0.04636192321777344
+time of "model to gpu" is:0.002897977828979492
+time of "load 模型参数" is:0.006461381912231445
+time of "sr" is:0.29792165756225586
+time of "infer" is:0.0980525016784668
+time of "sr" is:0.2973666191101074
+time of "infer" is:0.09802675247192383
+time of "vgg" is:0.04639792442321777
+time of "model to gpu" is:0.002912282943725586
+time of "load 模型参数" is:0.006398200988769531
+time of "sr" is:0.29816341400146484
+time of "infer" is:0.09876799583435059
+time of "sr" is:0.2982485294342041
+time of "infer" is:0.09879827499389648
+time of "vgg" is:0.04622626304626465
+time of "model to gpu" is:0.0028967857360839844
+time of "load 模型参数" is:0.0064084529876708984
+time of "sr" is:0.2991001605987549
+time of "infer" is:0.10335516929626465
+time of "sr" is:0.29708194732666016
+time of "infer" is:0.09823846817016602
+time of "vgg" is:0.04640460014343262
+time of "model to gpu" is:0.0029168128967285156
+time of "load 模型参数" is:0.006458282470703125
+time of "sr" is:0.29836106300354004
+time of "infer" is:0.10752534866333008
+time of "sr" is:0.2973456382751465
+time of "infer" is:0.10068392753601074
+time of "vgg" is:0.046428680419921875
+time of "model to gpu" is:0.002948284149169922
+time of "load 模型参数" is:0.006489992141723633
+time of "sr" is:0.29782605171203613
+time of "infer" is:0.1001138687133789
+time of "sr" is:0.2982923984527588
+time of "infer" is:0.09778213500976562
+time of "vgg" is:0.04617667198181152
+time of "model to gpu" is:0.0028476715087890625
+time of "load 模型参数" is:0.00676274299621582
+time of "sr" is:0.2982196807861328
+time of "infer" is:0.0999608039855957
+time of "sr" is:0.2976036071777344
+time of "infer" is:0.09718060493469238
+time of "vgg" is:0.046148061752319336
+time of "model to gpu" is:0.0028471946716308594
+time of "load 模型参数" is:0.006805419921875
+time of "sr" is:0.2978630065917969
+time of "infer" is:0.09809231758117676
+time of "sr" is:0.29779481887817383
+time of "infer" is:0.09758687019348145
+time of "vgg" is:0.04622149467468262
+time of "model to gpu" is:0.0028591156005859375
+time of "load 模型参数" is:0.006401538848876953
+time of "sr" is:0.29833006858825684
+time of "infer" is:0.11211585998535156
+time of "vgg" is:0.04712867736816406
+time of "model to gpu" is:0.003868579864501953
+time of "load 模型参数" is:0.008554220199584961
+time of "sr" is:0.29860544204711914
+time of "infer" is:0.10177469253540039
+time of "sr" is:0.29788732528686523
+time of "infer" is:0.10844659805297852
+time of "vgg" is:0.04634594917297363
+time of "model to gpu" is:0.002931356430053711
+time of "load 模型参数" is:0.006842851638793945
+time of "sr" is:0.2987546920776367
+time of "infer" is:0.10447907447814941
+time of "vgg" is:0.046274662017822266
+time of "model to gpu" is:0.0032787322998046875
+time of "load 模型参数" is:0.007657289505004883
+time of "sr" is:0.29781413078308105
+time of "infer" is:0.10041379928588867
+time of "sr" is:0.29823923110961914
+time of "infer" is:0.1046593189239502
+time of "vgg" is:0.04605507850646973
+time of "model to gpu" is:0.0028998851776123047
+time of "load 模型参数" is:0.006478548049926758
+time of "sr" is:0.29830312728881836
+time of "infer" is:0.0972909927368164
+time of "sr" is:0.2981569766998291
+time of "infer" is:0.09928226470947266
+time of "vgg" is:0.046166181564331055
+time of "model to gpu" is:0.003286123275756836
+time of "load 模型参数" is:0.0076923370361328125
+time of "sr" is:0.29859089851379395
+time of "infer" is:0.09885191917419434
+time of "sr" is:0.2982816696166992
+time of "infer" is:0.10053634643554688
+time of "sr" is:0.2984123229980469
+time of "infer" is:0.09778046607971191
+time of "vgg" is:0.04627275466918945
+time of "model to gpu" is:0.0028791427612304688
+time of "load 模型参数" is:0.0064449310302734375
+time of "sr" is:0.29770398139953613
+time of "infer" is:0.1045079231262207
+time of "sr" is:0.29895806312561035
+time of "infer" is:0.1026148796081543
+time of "sr" is:0.2988746166229248
+time of "infer" is:0.10343527793884277
+time of "vgg" is:0.04715132713317871
+time of "model to gpu" is:0.003463268280029297
+time of "load 模型参数" is:0.00728154182434082
+time of "sr" is:0.2987842559814453
+time of "infer" is:0.10292315483093262
+time of "sr" is:0.30063343048095703
+time of "infer" is:0.10223174095153809
+time of "sr" is:0.29959774017333984
+time of "infer" is:0.10202336311340332
+time of "vgg" is:0.047271013259887695
+time of "model to gpu" is:0.003450632095336914
+time of "load 模型参数" is:0.007176399230957031
+time of "sr" is:0.29897403717041016
+time of "infer" is:0.10404348373413086
+time of "sr" is:0.29903101921081543
+time of "infer" is:0.10386109352111816
+time of "sr" is:0.2986631393432617
+time of "infer" is:0.10903596878051758
+time of "vgg" is:0.04720878601074219
+time of "model to gpu" is:0.0034515857696533203
+time of "load 模型参数" is:0.0072591304779052734
+time of "sr" is:0.298778772354126
+time of "infer" is:0.10269713401794434
+time of "sr" is:0.29875826835632324
+time of "infer" is:0.10231900215148926
+time of "sr" is:0.2986891269683838
+time of "infer" is:0.10646986961364746
+time of "vgg" is:0.047119855880737305
+time of "model to gpu" is:0.0034356117248535156
+time of "load 模型参数" is:0.0071048736572265625
+time of "sr" is:0.2991607189178467
+time of "infer" is:0.10293126106262207
+time of "sr" is:0.2991065979003906
+time of "infer" is:0.10268759727478027
+time of "sr" is:0.29880642890930176
+time of "infer" is:0.10186934471130371
+time of "vgg" is:0.047031402587890625
+time of "model to gpu" is:0.003408193588256836
+time of "load 模型参数" is:0.0073354244232177734
+time of "sr" is:0.2985827922821045
+time of "infer" is:0.1031954288482666
+time of "sr" is:0.29930877685546875
+time of "infer" is:0.10232305526733398
+time of "sr" is:0.29952025413513184
+time of "infer" is:0.10181975364685059
+time of "vgg" is:0.047168731689453125
+time of "model to gpu" is:0.0035789012908935547
+time of "load 模型参数" is:0.007324695587158203
+time of "sr" is:0.298267126083374
+time of "infer" is:0.10389876365661621
+time of "sr" is:0.29998087882995605
+time of "infer" is:0.09971046447753906
+time of "sr" is:0.29925107955932617
+time of "infer" is:0.09705615043640137
+time of "vgg" is:0.04643130302429199
+time of "model to gpu" is:0.0029447078704833984
+time of "load 模型参数" is:0.006771087646484375
+time of "sr" is:0.29894590377807617
+time of "infer" is:0.09775686264038086
+time of "sr" is:0.2984142303466797
+time of "infer" is:0.09863114356994629
+time of "sr" is:0.29869961738586426
+time of "infer" is:0.09783077239990234
+time of "vgg" is:0.04632878303527832
+time of "model to gpu" is:0.002922534942626953
+time of "load 模型参数" is:0.006409883499145508
+time of "sr" is:0.2986886501312256
+time of "infer" is:0.09792900085449219
+time of "sr" is:0.2984647750854492
+time of "infer" is:0.0989987850189209
+time of "vgg" is:0.04628348350524902
+time of "model to gpu" is:0.0029222965240478516
+time of "load 模型参数" is:0.006502628326416016
+time of "sr" is:0.2986588478088379
+time of "infer" is:0.09805154800415039
+time of "sr" is:0.2990386486053467
+time of "infer" is:0.09750962257385254
+time of "vgg" is:0.046390533447265625
+time of "model to gpu" is:0.002904653549194336
+time of "load 模型参数" is:0.006396770477294922
+time of "sr" is:0.29887890815734863
+time of "infer" is:0.09698605537414551
+time of "sr" is:0.2981274127960205
+time of "infer" is:0.10497903823852539
+time of "vgg" is:0.0463409423828125
+time of "model to gpu" is:0.002907991409301758
+time of "load 模型参数" is:0.006405353546142578
+time of "sr" is:0.2982490062713623
+time of "infer" is:0.09938764572143555
+time of "sr" is:0.2986917495727539
+time of "infer" is:0.1001896858215332
+time of "sr" is:0.29787206649780273
+time of "infer" is:0.09743213653564453
+time of "vgg" is:0.04636812210083008
+time of "model to gpu" is:0.0028786659240722656
+time of "load 模型参数" is:0.006424903869628906
+time of "sr" is:0.29856371879577637
+time of "infer" is:0.09827709197998047
+time of "sr" is:0.298292875289917
+time of "infer" is:0.09708881378173828
+time of "sr" is:0.2982184886932373
+time of "infer" is:0.09740471839904785
+time of "vgg" is:0.04638028144836426
+time of "model to gpu" is:0.0028972625732421875
+time of "load 模型参数" is:0.006464242935180664
+time of "sr" is:0.2980360984802246
+time of "infer" is:0.09858250617980957
+time of "sr" is:0.29871273040771484
+time of "infer" is:0.09766817092895508
+time of "vgg" is:0.04632997512817383
+time of "model to gpu" is:0.0028657913208007812
+time of "load 模型参数" is:0.006394386291503906
+time of "sr" is:0.29897260665893555
+time of "infer" is:0.09634089469909668
+time of "sr" is:0.29874491691589355
+time of "infer" is:0.09741854667663574
+time of "sr" is:0.2987682819366455
+time of "infer" is:0.09679484367370605
+time of "vgg" is:0.04635310173034668
+time of "model to gpu" is:0.0029036998748779297
+time of "load 模型参数" is:0.006472587585449219
+time of "sr" is:0.2990379333496094
+time of "infer" is:0.09835386276245117
+time of "sr" is:0.2991487979888916
+time of "infer" is:0.09832644462585449
+time of "sr" is:0.2982757091522217
+time of "infer" is:0.10023140907287598
+time of "vgg" is:0.04636430740356445
+time of "model to gpu" is:0.0028772354125976562
+time of "load 模型参数" is:0.006367683410644531
+time of "sr" is:0.29914379119873047
+time of "infer" is:0.09650993347167969
+time of "sr" is:0.29929399490356445
+time of "infer" is:0.09695625305175781
+time of "sr" is:0.29956674575805664
+time of "infer" is:0.09701752662658691
+time of "vgg" is:0.04652118682861328
+time of "model to gpu" is:0.0028295516967773438
+time of "load 模型参数" is:0.006364583969116211
+time of "sr" is:0.29863810539245605
+time of "infer" is:0.09665870666503906
+time of "sr" is:0.2987794876098633
+time of "infer" is:0.09705090522766113
+time of "vgg" is:0.046384334564208984
+time of "model to gpu" is:0.0028553009033203125
+time of "load 模型参数" is:0.006391763687133789
+time of "sr" is:0.29894375801086426
+time of "infer" is:0.09984135627746582
+time of "sr" is:0.2988600730895996
+time of "infer" is:0.09634685516357422
+time of "vgg" is:0.0465540885925293
+time of "model to gpu" is:0.0028715133666992188
+time of "load 模型参数" is:0.006373405456542969
+time of "sr" is:0.29900169372558594
+time of "infer" is:0.10380911827087402
+time of "vgg" is:0.04655170440673828
+time of "model to gpu" is:0.002910614013671875
+time of "load 模型参数" is:0.006496429443359375
+time of "sr" is:0.29930543899536133
+time of "infer" is:0.10265469551086426
+time of "sr" is:0.2993617057800293
+time of "infer" is:0.09707975387573242
+time of "vgg" is:0.047402381896972656
+time of "model to gpu" is:0.0028831958770751953
+time of "load 模型参数" is:0.0064127445220947266
+time of "sr" is:0.2990121841430664
+time of "infer" is:0.09774422645568848
+time of "sr" is:0.2992587089538574
+time of "infer" is:0.0992586612701416
+time of "vgg" is:0.04756569862365723
+time of "model to gpu" is:0.002862215042114258
+time of "load 模型参数" is:0.00641179084777832
+time of "sr" is:0.30016326904296875
+time of "infer" is:0.09781980514526367
+time of "sr" is:0.29995298385620117
+time of "infer" is:0.09795546531677246
+time of "vgg" is:0.04714846611022949
+time of "model to gpu" is:0.0028688907623291016
+time of "load 模型参数" is:0.006451845169067383
+time of "sr" is:0.29985952377319336
+time of "infer" is:0.09771561622619629
+time of "sr" is:0.2992260456085205
+time of "infer" is:0.09821105003356934
+time of "sr" is:0.29911279678344727
+time of "infer" is:0.09767961502075195
+time of "vgg" is:0.0470888614654541
+time of "model to gpu" is:0.002843141555786133
+time of "load 模型参数" is:0.00648045539855957
+time of "sr" is:0.2993488311767578
+time of "infer" is:0.09824657440185547
+time of "sr" is:0.2994503974914551
+time of "infer" is:0.10315465927124023
+time of "vgg" is:0.047028541564941406
+time of "model to gpu" is:0.0028786659240722656
+time of "load 模型参数" is:0.006414651870727539
+time of "sr" is:0.2992579936981201
+time of "infer" is:0.0990285873413086
+time of "sr" is:0.29972147941589355
+time of "infer" is:0.09892988204956055
+time of "vgg" is:0.047399282455444336
+time of "model to gpu" is:0.0028502941131591797
+time of "load 模型参数" is:0.006458759307861328
+time of "sr" is:0.3000600337982178
+time of "infer" is:0.09922456741333008
+time of "sr" is:0.29913902282714844
+time of "infer" is:0.09722685813903809
+time of "vgg" is:0.047518253326416016
+time of "model to gpu" is:0.002884387969970703
+time of "load 模型参数" is:0.0063610076904296875
+time of "sr" is:0.29955339431762695
+time of "infer" is:0.10031580924987793
+time of "sr" is:0.29946422576904297
+time of "infer" is:0.09913754463195801
+time of "vgg" is:0.047563791275024414
+time of "model to gpu" is:0.00286865234375
+time of "load 模型参数" is:0.00659942626953125
+time of "sr" is:0.2993645668029785
+time of "infer" is:0.09853863716125488
+time of "vgg" is:0.04681086540222168
+time of "model to gpu" is:0.0028672218322753906
+time of "load 模型参数" is:0.00639033317565918
+time of "sr" is:0.29926586151123047
+time of "infer" is:0.09947609901428223
+time of "sr" is:0.29947638511657715
+time of "infer" is:0.09944772720336914
+time of "sr" is:0.2991831302642822
+time of "infer" is:0.098175048828125
+time of "vgg" is:0.04744696617126465
+time of "model to gpu" is:0.002874135971069336
+time of "load 模型参数" is:0.006390094757080078
+time of "sr" is:0.2994258403778076
+time of "infer" is:0.09850573539733887
+time of "sr" is:0.29951000213623047
+time of "infer" is:0.0975501537322998
+time of "sr" is:0.2991948127746582
+time of "infer" is:0.10109257698059082
+time of "vgg" is:0.04751086235046387
+time of "model to gpu" is:0.0028502941131591797
+time of "load 模型参数" is:0.006361484527587891
+time of "sr" is:0.2996361255645752
+time of "infer" is:0.0995028018951416
+time of "sr" is:0.29932451248168945
+time of "infer" is:0.09827351570129395
+time of "sr" is:0.30090951919555664
+time of "infer" is:0.0981752872467041
+time of "vgg" is:0.04749274253845215
+time of "model to gpu" is:0.002864837646484375
+time of "load 模型参数" is:0.006482601165771484
+time of "sr" is:0.3000154495239258
+time of "infer" is:0.10183119773864746
+time of "sr" is:0.30008482933044434
+time of "infer" is:0.10326194763183594
+time of "vgg" is:0.04741072654724121
+time of "vgg" is:0.04723048210144043
+time of "model to gpu" is:0.0029425621032714844
+time of "load 模型参数" is:0.006538867950439453
+time of "sr" is:0.30056142807006836
+time of "infer" is:0.10750699043273926
+time of "vgg" is:0.04713249206542969
+time of "model to gpu" is:0.002859354019165039
+time of "load 模型参数" is:0.006409883499145508
+time of "sr" is:0.30018138885498047
+time of "infer" is:0.10268306732177734
+time of "sr" is:0.29966235160827637
+time of "infer" is:0.09948468208312988
+time of "sr" is:0.29919004440307617
+time of "infer" is:0.09881138801574707
+time of "all" is:102.4057457447052
